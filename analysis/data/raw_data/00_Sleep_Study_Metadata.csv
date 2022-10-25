@@ -1,0 +1,171 @@
+﻿Name,Wednesday the Halloweaner,Snoozy Suzy the Superweaner,Dozy Daisy the Juvie,Ashy Ashley the Juvie,Bertha the Sleeping Beauty Juvie,Comatose Courtney the Juvie,Dreamy Denise the Halloweaner,Exhausted Ellie the Weaner,Fatigued Fiona the Juvie,Goodnight Gerty the Weaner,HypoactiveHeidi,Indolent Izzy,JauntingJuliette
+Nickname,test12_Wednesday,test20_SnoozySuzy,test21_DozyDaisy,test23_AshyAshley,test24_BerthaBeauty,test25_ComaCourtney,test26_DreamyDenise,test30_ExhaustedEllie,test31_FatiguedFiona,test32_GoodnightGerty,test33_HypoactiveHeidi,test34_IndolentIzzy,test35_JauntingJuliette
+Recording ID,CAPTIVE_1yr-juvenile,WILD_2mo-weanling,WILD_2yr-juvenile,CAPTIVE_2yr-juvenile,CAPTIVE_2yr-juvenile,CAPTIVE_2yr-juvenile,CAPTIVE_1yr-juvenile,WILD_2mo-weanling,WILD_2yr-juvenile,WILD_2mo-weanling,XLOC_2yr-juvenile,WILD_1yr-juvenile,XLOC_2-yr-juvenile
+Test Number,12,20,21,23,24,25,26,30,31,32,33,34,35
+Deployment,1,2,3,4,5,6,7,8,9,10,11,12,13
+Seal Number,12,17,22,14,15,16,13,18,20,19,23,21,24
+Sex,F,F,F,F,F,F,F,F,F,F,F,F,F
+Version,V1,V2,V2,V2,V2,V2,V2,V3,V3,V3,V3,V3,V4
+Age,"(0,1]","(0,1]","(2,3]","(1,2]","(1,2]","(1,2]","(0,1]","(0,1]","(2,3]","(0,1]","(2,3]","(1,2]","(2,3]"
+Age Estimate,~0.8 years old,75 days old,2.2 years old,1.8 years old,1.8 years old,1.8 years old,~0.8 years old,~2 months old,probable 2.2 year old,~2 months old,~2.2 years old,~1.2 years old,~2.2 years old
+Seal ID,E645,H312,E411,E710,WN428,WN159,H525,H870,H645,H644,H935,H938,K666
+Pressed Start Logger,10/25/2019 08:20:50,04/10/2020 17:09:51,04/24/2020 16:59:48,09/26/2020 15:59:48,10/08/2020 11:58:48,10/16/2020 14:45:48,10/23/2020 15:59:48,03/26/2021 15:50:00,04/04/2021 14:30:00,04/10/2021 19:11:00,04/17/2021 15:36:00,04/26/2021 16:54:00,04/01/2022 21:22:58
+Logger Start,10/25/2019 08:21:02,04/10/2020 17:10:03,04/24/2020 17:00:00,09/26/2020 16:00:00,10/08/2020 11:59:00,10/16/2020 14:46:00,10/23/2020 16:00:00,03/26/2021 15:51:00,04/04/2021 14:31:00,04/10/2021 19:12:00,04/17/2021 15:37:00,04/26/2021 16:55:00,04/01/2022 21:23:58
+Start from Real Time Clock,,,,,,,,03/25/2021 15:51:03,04/03/2021 14:31:02,04/09/2021 19:12:01,04/16/2021 15:37:00,04/25/2021 16:55:02,03/31/2022 21:24:00
+Start for EDF Files,10/25/2019 08:21:03.000,04/10/2020 17:10:01.52,04/24/2020 17:00:01.00,09/26/2020 15:59:59.240,10/08/2020 11:58:58.960,10/16/2020 14:45:58.640,10/23/2020 15:59:58.440,03/26/2021 15:51:03,04/04/2021 14:31:02,04/10/2021 19:12:01,04/17/2021 15:37:00,04/26/2021 16:55:02,04/01/2022 21:24:00
+Duration_ON_ANIMAL_h,81.86,73.81,75.16,116.85,115.86,69.61,79.71,120.9,98.81,120.04,114.42,119.19,86.41777778
+ON ANIMAL,10/25/2019 14:45:22,04/11/2020 16:46:25,04/25/2020 11:14:55,09/27/2020 13:04:52,10/09/2020 13:44:19,10/17/2020 17:22:32,10/24/2020 13:03:24,03/27/2021 11:47:30,04/05/2021 09:34:48,04/11/2021 10:47:40,04/20/2021 18:02:10,04/27/2021 10:48:28,04/02/2022 18:38:29
+OFF ANIMAL,n/a,04/14/2020 18:34:59,04/28/2020 14:24:13,10/02/2020 09:55:38,10/14/2020 09:35:40,n/a,n/a,04/01/2021 12:41:46,04/09/2021 12:23:24,04/16/2021 10:50:09,04/25/2021 12:27:30,05/02/2021 09:59:41,04/06/2022 09:03:33
+,,,,,,,,,,,,,
+Capture_ANO_InitialStick,10/24/2019 17:33:15,n/a,n/a,09/27/2020 09:57:00,10/09/2020 10:21:25,10/17/2020 13:51:28,10/24/2020 10:05:41,n/a,n/a,n/a,n/a,n/a,
+Capture_ANO_LastDose,10/24/2019 17:58:41,n/a,n/a,09/27/2020 09:57:00,10/09/2020 10:34:25,10/17/2020 14:10:50,10/24/2020 10:05:41,n/a,n/a,n/a,n/a,n/a,
+Capture_ANO_Cortisol,n/a,n/a,n/a,n/a,8.306,11.525,12.334,n/a,n/a,n/a,n/a,n/a,
+Capture_ANO_cv,n/a,n/a,n/a,n/a,3.07,2.52,4.17,n/a,n/a,n/a,n/a,n/a,
+,,,,,,,,,,,,,
+Attachment_InitialStick,10/25/2019 13:38:21,04/11/2020 15:47:00,04/25/2020 09:58:00,09/27/2020 12:18:20,10/09/2020 12:41:02,10/17/2020 16:05:00,10/24/2020 11:56:00,03/27/2021 09:20:28,04/05/2021 07:54:00,04/11/2021 09:32:22,04/20/2021 16:46:00,04/27/2021 09:38:50,04/02/2022 17:34:30
+Attachment_LastDose,10/25/2019 14:46:15,04/11/2020 17:07:00,04/25/2020 11:12:00,09/27/2020 13:36:45,10/09/2020 14:11:30,10/17/2020 17:22:10,10/24/2020 13:24:34,03/27/2021 11:10:47,04/05/2021 09:46:30,04/11/2021 11:01:56,04/20/2021 18:20:30,04/27/2021 10:52:06,
+Attachment_Cortisol,n/a,3.123,5.144,n/a,35.964,46.712,27.421,16.283,7.852,4.540,10.728,1.672,
+Attachment_cv,n/a,3.17,0.67,n/a,1.41,1.57,1.53,2.22,3.73,1.11,2.11,0.16,
+,,,,,,,,,,,,,
+Adjustment_InitialStick,n/a,n/a,n/a,09/29/2020 15:28:16,n/a,10/19/2020 17:22:05,n/a,n/a,n/a,n/a,n/a,n/a,
+Adjustment_LastDose,n/a,n/a,n/a,09/29/2020 15:28:16,n/a,10/19/2020 17:40:15,n/a,n/a,n/a,n/a,n/a,n/a,
+Adjustment_Cortisol,n/a,n/a,n/a,n/a,n/a,28.156,n/a,n/a,n/a,n/a,n/a,n/a,
+Adjustment_cv,n/a,n/a,n/a,n/a,n/a,0.91,n/a,n/a,n/a,n/a,n/a,n/a,
+,,,,,,,,,,,,,
+Removal_InitialStick,10/29/2019 15:08:00,04/14/2020 18:11:00,04/28/2020 14:05:00,10/02/2020 09:37:43,10/14/2020 09:17:30,10/22/2020 15:11:03,10/29/2020 10:06:40,04/01/2021 12:26:13,04/09/2021 11:57:47,04/16/2021 10:20:29,04/25/2021 12:42:44,05/02/2021 09:35:23,04/06/2022 08:36:22
+Removal_LastDose,10/29/2019 15:41:00,04/14/2020 18:42:00,04/28/2020 14:33:00,10/02/2020 10:13:00,10/14/2020 09:39:00,10/22/2020 15:54:00,10/29/2020 10:38:00,04/01/2021 13:00:00,04/09/2021 12:23:43,04/16/2021 10:49:20,04/25/2021 12:30:04,05/02/2021 10:07:30,
+Removal_Cortisol,n/a,n/a,n/a,6.874,35.128,26.755,13.434,7.222,13.259,10.965,4.347,4.123,
+Removal_cv,n/a,n/a,n/a,1.65,1.01,2.39,1.91,1.41,1.86,4.21,2.76,1.25,
+,,,,,,,,,,,,,
+Electrodes unplugged from logger_recorded time,not recorded - off,,,10/02/2020 09:55:52,10/14/2020 09:35:50,10/22/2020 15:26:36,10/29/2020 10:19:31,n/a,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,
+Electrodes unplugged from logger_Video,,,,,10/14/2020 09:35:54,,,n/a,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,
+Logger Stop,not recorded - off,not recorded - off,04/28/2020 17:55:00,10/02/2020 11:05:00,10/14/2020 09:58:00,not recorded - off,not recorded - off,04/01/2021 15:44:30,04/09/2021 15:54:00,04/16/2021 14:21:00,04/25/2021 14:56:02,05/02/2021 12:52:00,
+Actual Start Time_CATS toolbox,10/25/2019 08:21:03.000,04/10/2020 17:10:01.520,04/24/2020 16:59:58.920,09/26/2020 15:59:59.240,10/08/2020 11:58:58.960,10/16/2020 14:45:58.640,10/23/2020 15:59:58.440,03/26/2021 15:51:03,04/04/2021 14:31:02,01/00/1900 00:00:00,04/17/2021 15:37:05,01/00/1900 00:00:00,
+Actual Start_TYPE,,,,,,,,,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,
+Logger Used,L2,L2,L2,L1,L1,L1,L1,L1,L1,L1,L1,L1,L1
+SD Card Used,2,2,2,1,1,1,1,3,3,3,3,3,4
+Configuration Notes,"no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","no real time clock, channel configuration ""normal""","connector config.py Oversampling ""upside down"" protocol used","connector config.py Oversampling ""upside down"" protocol used","connector config.py Oversampling ""upside down"" protocol used","connector config.py Oversampling ""upside down"" protocol used","connector config.py Oversampling ""upside down"" protocol used","connector config.py Oversampling ""upside down"" protocol used"
+Restarts Present,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,Yes
+Number of Restarts,13,0,3,7,2,9,4,1,4,0,0,0,1
+X-factor per restart,0,n/a,0,1.437142857,0,0,0,0,0,0,0,0,0
+First Restart Seconds Elapsed,78400.588,n/a,111729.716,145619.628,195405.168,104321.056,232027.068,517740.86,0,0,0,0,0
+Last Restart Seconds Elapsed,278062.4055,n/a,124116.4562,477059.9047,470248.436,333504.765,348630.1281,517740.86,0,0,0,0,0
+First Restart Time,10/26/2019 06:07:42.588,n/a,04/26/2020 00:02:09.716,09/28/2020 08:26:59.628,10/10/2020 18:15:45.168,10/17/2020 19:44:41.056,10/26/2020 08:27:07.068,04/01/2021 15:40:00.860,04/04/2021 14:31:00.000,04/10/2021 19:12:00.000,04/17/2021 15:37:00.000,04/26/2021 16:55:00.000,01/00/1900 00:00:00.000
+Last Restart Time,10/28/2019 13:35:24.405,n/a,04/26/2020 03:28:36.456,10/02/2020 04:30:59.905,10/13/2020 22:36:28.436,10/20/2020 11:24:24.765,10/27/2020 16:50:30.128,04/01/2021 15:40:00.860,04/04/2021 14:31:00.000,04/10/2021 19:12:00.000,04/17/2021 15:37:00.000,04/26/2021 16:55:00.000,01/00/1900 00:00:00.000
+Device Failure,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No
+Mass with cage_kg,200,n/a,n/a,222,277,258,229,133,173,137,180,175,293
+Mass cage_kg,82,n/a,n/a,81,81,81,81,17,19,19,17,18,82
+Mass animal _kg,118,~200 (not weighed),around 120,141,196,177,148,116,154,118,163,157,211
+Mass animal post-study_kg,n/a,n/a,n/a,n/a,n/a,n/a,137,0,0,0,0,0,0
+Flipper Tag 1,GE645,GH312,GE411,GE711,WN428,WN159,GH525 - ADDED,GH870,GH645,GH644,GH935,GH938,GK677
+Position,L-ou-Si,R-ou-Si,L-iu-So,R-iu-Si,R-iu-So,L-iu-so,L-iu-So,L-ou-Si,L-iu-So,L-ou-So,R-ou-Si,R-iu-Si,L-iu-Si
+Flipper Tag 2,GG734,GH510,GG751,GE710,GH588,WN160,GH527 - ADDED,GK102,GH657,GH651,GH936,GH939,GK666
+Position,R-iu-So,L-iu-Si,R-ou-Si,L-il-Si,L-ou-So,R-iu-so,R-il-So,R-il-Si,R-ou-Si,R-iu-So,L-il-So,L-ou-So,R-ou-So
+Mark,No Mark,702,E411,E711,"H588 {R,L}",WN160,No Mark,210X,0,GH644,H935,H938,0
+Mark Position,No Mark,"R,L","R,L",R,"R, L","L,shoulders (smudged in cage)",No Mark,R,0,"R,L","R,L","L,R",0
+Birth date,probably in 2019,b/w Jan-23 & 29,in 2018,1/11/2019 (first sighting),~ Jan 2019,~Jan 2019,probably in 2020,~1/15/2021,n/a,0,n/a,0,0
+Wean date,unknown,03/05/2020 00:00:00,unknown,02/07/2019 00:00:00,~ March 2019,between 2/21/2019 and 2/23/2019,unknown,02/15/2021 00:00:00,n/a,n/a,n/a,n/a,01/00/1900 00:00:00
+Tagged date,unknown,unknown,unknown,02/11/2019 00:00:00,03/01/2019 00:00:00,02/23/2019 00:00:00,unknown,02/20/2021 00:00:00,n/a,n/a,n/a,n/a,01/00/1900 00:00:00
+Wean weight_kg,unknown,199.8,unknown,137,?,159.3 kg,unknown,141.2,n/a,0,n/a,0,0
+Weaner ID,unknown,not recorded,not recorded,513,not recorded,not recorded,not recorded,367998,n/a,0,n/a,0,0
+Wean Standard Length,unknown,unknown,unknown,148,?,unknown,unknown,149,n/a,0,n/a,0,0
+Wean Ax Girth,unknown,unknown,unknown,131,?,unknown,unknown,135,n/a,0,n/a,0,0
+Animal ID,51163,51536,49677,49965,51213,51173,52333,53631,53815,53832,53845,53848,55573
+Deployment Resight ID,334707,347591,348614,323448,353048 (capture),353185,353421,369160,371454,372774,374516,374824,398056
+Recovery Resight ID,,,,,,353232,353422,375880,371457,372778,374517,375131,0
+Deploy ID,NESE0000LOML,NESE0840ANNU,NESE0841ANNU,NESE0005LOML,NESE0006LOML,NESE0007LOML,NESE0008LOML,NESE0865ANNU,NESE0866ANNU,NESE0867ANNU,NESE0868ANNU,NESE0869ANNU,NESE0870ANNU
+Seal ID,E645,H312,E411,E710,WN428,WN159,H525,H870,H645,H644,H935,H938,K666
+TOPP ID,2019058,2020045,2020046,2020047,2020048,2020049,2020050,2021041,2021042,2021043,2021044,2021045,2022033
+Deploy Time,,,,,,,,04/04/2021 23:00:00,04/04/2021 23:00:00,04/10/2021 23:58:00,04/17/2021 23:45:00,04/26/2021 21:50:00,44652.70833
+Deploy Latitude,36.948644,37.113761,37.113761,36.948644,36.948644,36.948644,36.948644,36.95309,36.95309,36.95309,36.95309,36.95309,36.95309
+Deploy Longitude,-122.065416,-122.327811,-122.327811,-122.065416,-122.065416,-122.065416,-122.065416,-122.064361,-122.064361,-122.064361,-122.064361,-122.064361,-122.064361
+Initial sedation location,BBNS,APG,BBN,BBN,BBN,BBN,BBN,TSC,TSC,MBBL,MBBU,BBSU,MBBU
+Attachment Time (GMT),,,04/25/2020 16:58:00,,,,,03/27/2021 16:20:28,04/05/2021 14:54:00,04/11/2021 16:32:22,04/20/2021 23:46:00,04/27/2021 16:38:50,44654.02396
+Attachment Latitude,,,37.117909,,,,,37.114632,37.114632,37.116205,37.116736,37.114139,37.116792
+Attachment Longitude,,,-122.335927,,,,,-122.325439,-122.325439,-122.330761,-122.330585,-122.32883,-122.330776
+Recovery procedure location,,,BBN,,,,,TSC,Pole1,BMB,MBBU,BBN,BBN
+Recovery Time (GMT),,,#VALUE!,,,,,04/01/2021 19:26:13,04/09/2021 19:13:00,04/16/2021 17:20:29,04/25/2021 19:42:44,05/02/2021 16:35:23,44657.65025
+Recovery Latitude,,,37.117909,,,,,37.115727,37.115727,37.114258,37.116456,37.118014,37.117973
+Recovery Longitude,,,-122.335927,,,,,-122.322446,-122.322446,-122.329383,-122.330869,-122.335574,-122.335667
+Blood,Yes,Yes,Yes?,Yes - red top from last removal procedure and purple tube stored,Yes - red tubes on all procedures and purple tube in refrigerator,Y - red tops at all procedures,Y - red tops at all procedures,"Yes - 2 red, 2 purple",Yes,Yes,Yes,Yes,"Yes - 2 red, 2 purple"
+Serum banked for CORT,,,,,,,,Yes,Yes,Yes,Yes,Yes,Yes
+Hematocrit,,58 / 58 / 57 / broke,n/a,52 / 52 / 52 / 52,52 / 52 / 52 / 51,63 / 63 / 63 / 63,50 / 51 / 52 / 53,50 / 49 / 50 / 50,48 / 48 / 47 / 48,48 / 48 / 47 / 47,49 / 47 / 53 / 48,49 / 50 / 49 / 48,52 / 54 / 52 / 52
+Standard Length,154,165,187,188,206,206,165,157,177,151,140,170,199
+Curved Length,179,177,200,199,216,220,175,170,187,167,192,191,210
+Ax Girth,132,143,102,124,147,129,139,130,134,129,140,140,160
+Whisker,N,N,Y - LD1,N,N,N,N,N,N,N,N,N,N
+Fur,N,N,N,N,N,N,N,N,N,N,N,N,N
+Blubber,N,N,N,N,N,N,N,N,N,N,N,N,N
+Ultrasound skull depth_cm,,,2.50,2.01,1.96,1.85,1.90,2.20,2.06,2.33,2.08,2.48,2.002
+Instruments,Sleep Tag,Sleep Tag & BBC & VHF 148.535,Sleep Tag & MK10 09A0140 - no GPS,Yes - Neurologger & AEP Recording,Yes - Neurologger & AEP Recording,Yes- Neurologger & AEP & NIRS upon removal,Yes- Neurologger & AEP & NIRS upon attachment and removal,"Somniseal V3, MK10, VHF V2","Somniseal V3, MK10, VHF V2","Somniseal V3, MK10, VHF V2","Somniseal V3, MK10, VHF V2","Somniseal V3, MK10, VHF V2","Somniseal V4, MK10, VHF 1 - 149.372"
+MK10 ID,,,,,,,,07A0349,07A0349,07A0349,07A0349,07A0349,04/01/2022 17:00:00
+Time Deploy VHF_magnet off,,,,,,,,03/27/2021 07:15:39,01/00/1900 00:00:00,04/10/2021 07:00:00,04/17/2021 16:55:00,04/27/2021 07:15:00,Yes
+test VHF pings on,,,,,,,,Yes,Yes,Yes,Yes,Yes,04/01/2022 17:00:00
+Time Deploy MK10_ON magnet,,,,,,,,03/26/2021 14:08:00,04/04/2021 16:21:20,04/10/2021 16:58:00,04/17/2021 16:45:00,04/26/2021 14:50:00,04/02/2022 00:00:00
+Time Deploy MK10 in GMT,,,,,,,,03/26/2021 21:08:00,04/04/2021 23:21:20,04/10/2021 23:58:00,04/17/2021 23:45:00,04/26/2021 21:50:00,ON ALL
+OFF DAYS in When to Transmit,,,,,,,,"OFF 3/27,28,29,30,31; ON 4/1","OFF 4/5,6,7,8; ON 4/9","OFF 4/11,12,13,14,15; ON 4/16",ON ALL ,"OFF 4/27, 28, 29, 30, 5/1, ON 5/2 ",n/a
+Program stop transmit MK10,,,,,,,,03/26/2021 17:00:00,04/04/2021 17:00:00,04/10/2021 17:00:00,04/10/2021 17:00:00,04/26/2021 17:00:00,n/a
+Program stop MK10_GMT,,,,,,,,03/27/2021 00:00:00,04/05/2021 00:00:00,04/11/2021 00:00:00,04/11/2021 00:00:00,04/27/2021 00:00:00,n/a
+Program start transmit MK10,,,,,,,,03/31/2021 17:00:00,04/08/2021 17:00:00,04/15/2021 17:00:00,04/15/2021 17:00:00,05/01/2021 17:00:00,n/a
+Program start MK10_GMT,,,,,,,,04/01/2021 00:00:00,04/09/2021 00:00:00,04/16/2021 00:00:00,04/16/2021 00:00:00,05/02/2021 00:00:00,Yes
+test transmit working,,,,,,,,Yes,Yes,Yes,Yes,Yes,n/a
+last test transmit time,,,,,,,,n/a,44277.96809,0,0,0,01/00/1900 00:00:00
+last transmit time recovery,,,,,,,,03/22/2021 23:14:03,03/22/2021 23:14:03,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,Shakes
+First Calibration Event Type,Galumphing,Calibration Shake,Calibration Shake,Calibration Shake,Calibration Shake,Calibration Shake,Calibration Shake,Shakes,Shakes,Shakes,Shakes,Shakes,04/01/2022 21:41:00
+First Calibration Event Start,10/25/2019 14:58:59,04/11/2020 17:37:00,04/24/2020 23:35:30,09/26/2020 16:48:00,10/08/2020 13:00:00,10/16/2020 15:00:00,10/23/2020 16:11:00,03/27/2021 09:43:00,04/04/2021 18:38:00,04/11/2021 10:19:00,04/20/2021 16:49:00,01/00/1900 00:00:00,04/01/2022 21:41:10
+First Calibration Event End,10/25/2019 14:59:12,04/11/2020 17:37:10,04/24/2020 23:35:40,09/26/2020 16:48:10,10/08/2020 13:00:10,10/16/2020 15:00:10,10/23/2020 16:11:10,03/27/2021 09:43:10,04/04/2021 18:38:10,04/11/2021 10:19:10,04/20/2021 16:49:10,01/00/1900 00:00:00,01/00/1900 00:00:10
+Expected Duration,00:00:13.000,00:00:10.000,00:00:10.000,00:00:10.000,00:00:10.000,00:00:10.000,00:00:10.000,01/00/1900 00:00:10,01/00/1900 00:00:10,01/00/1900 00:00:10,01/00/1900 00:00:10,01/00/1900 00:00:00,01/00/1900 00:00:00
+Logger Event Time Start_TYPE,10/25/2019 16:58:59.000,04/11/2020 17:36:59.700,04/24/2020 23:35:31.000,09/26/2020 16:48:00.690,10/08/2020 13:00:00.972,10/16/2020 15:00:01.370,01/00/1900 16:48:00.690,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Logger Event Time End_TYPE,10/25/2019 16:59:12.000,04/11/2020 17:37:09.740,04/24/2020 23:35:40.000,09/26/2020 16:48:10.630,10/08/2020 13:00:11.780,10/16/2020 15:00:12.350,01/00/1900 16:48:10.630,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Actual Duration,00:00:13.000,00:00:10.040,00:00:09.000,00:00:09.940,00:00:10.808,00:00:10.980,00:00:09.940,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,Shakes
+Event2_type,n/a,Calibration Shake,Calibration Shake,Calibration Shake,Pick up logger at 9:44:02 on Wyze Cam = 4 seconds later than the actual time 9:43:58,,,Shakes,Shakes,Shakes,Shakes,Shakes,04/06/2022 11:56:00
+Last Calibration Event 2 Start,not recorded - off,04/14/2020 20:26:00,04/28/2020 17:45:00,10/02/2020 11:04:30,10/14/2020 09:43:58,not recorded - off,not recorded - off,04/01/2021 15:20:00,04/09/2021 15:28:00,01/00/1900 00:00:00,04/25/2021 14:42:00,05/02/2021 12:41:00,04/06/2022 11:56:10
+Last Calibration Event 2 End,not recorded - off,04/14/2020 20:26:10,04/28/2020 17:45:10,10/02/2020 11:04:40,10/14/2020 09:44:25,not recorded - off,not recorded - off,04/01/2021 15:20:10,04/09/2021 15:28:10,01/00/1900 00:00:00,04/25/2021 14:42:10,05/02/2021 12:41:10,01/00/1900 00:00:10
+Logger Event Time Start_TYPE,01/00/1900 16:48:00.690,04/14/2020 20:25:55.680,04/28/2020 17:44:17.340,10/02/2020 11:04:20.630,10/14/2020 09:43:49.696,01/00/1900 16:48:00.690,01/00/1900 16:48:00.690,01/00/1900 00:00:10,01/00/1900 00:00:10,01/00/1900 00:00:00,01/00/1900 00:00:10,01/00/1900 00:00:10,01/00/1900 00:00:00
+Logger Event Time End_TYPE,01/00/1900 16:48:10.630,04/14/2020 20:26:07.920,04/28/2020 17:44:17.340,10/02/2020 11:04:30.700,10/14/2020 09:44:09.600,01/00/1900 16:48:10.630,01/00/1900 16:48:10.630,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Actual Duration,00:00:09.940,00:00:12.240,00:00:00.000,00:00:10.070,00:00:19.904,00:00:09.940,00:00:09.940,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Offset NOT accounted for by Insert Restart Delays,#VALUE!,00:00:04.020,00:00:43.660,00:00:10.060,00:00:09.276,#VALUE!,#VALUE!,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/04/1900 14:15:00
+Type in OFFSET,,,,10.06,,,,01/05/1900 05:37:00,01/04/1900 20:50:00,###############################################################################################################################################################################################################################################################,01/04/1900 21:53:00,05/02/2021 12:41:00,01/00/1900 00:00:00
+Event3_type,,,,"Came Unplugged, was plugged back in",Walking into lab with logger,,,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Additional Sync Event Start,Time of water entry:,04/12/2020 16:39:00,,09/29/2020 14:21:46,10/09/2020 14:33:00,,,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Additional Sync Event End,10/27/2019 16:39:33,04/12/2020 16:39:05,,09/29/2020 15:39:14,10/09/2020 14:33:10,,,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00
+Time of water entry,10/27/2019 16:39:33,04/11/2020 22:53:37,04/25/2020 23:06:08,09/29/2020 13:13:48,10/11/2020 12:23:10,10/19/2020 18:36:40,10/26/2020 11:51:08,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,01/00/1900 00:00:00,0
+Recording Duration_s,317752.316,361858.448,348857.656,500603.236,511107.128,346393.656,362771.948,517957.272,436980.544,0,0,0,0
+Recording Duration_days,3.677688843,4.188176481,4.037704352,5.794018935,5.915591759,4.009185833,4.198749398,5.994875833,5.057645185,0,0,0,4.641921296
+Recording Duration_based on start stop,n/a,n/a,4.038194444,5.795138889,5.915972222,n/a,n/a,5.995486111,5.057638889,5.797916667,7.971550926,5.83125,No
+Extra Sedation,No,No,No,Yes,No,Yes,No,No,No,0,0,No,n/a
+Reason,n/a,n/a,n/a,Electrodes came unplugged,But did do an adjustment to superglue strap down while animal was sleeping,Needed to glue down side of headcap again,But did do an adjustment to tack down headcap with superglue while the animal was sleeping,n/a,n/a,0,0,n/a,3.626296296
+Experiment Duration_days from attachment to removal,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,5.128993056,4.179861111,5.033414352,4.831064815,4.997604167,"R. Holser, L. Keehan, J. Kendall-Bar, A. Favilla, R. Jones, P.Robinson"
+Pickup Crew,"Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla",n/a,n/a,"Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Patrick Robinson.","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano",0,0,0,0,0,0
+Attachment Crew,"Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar, Roxanne Beltran","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar","Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","Rachel Holser, Logan Pallin, and Daniel Lozano.","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano","R. Holser, L. Keehan, J. Kendall-Bar, A. Favilla, R. Jones, D. Costa","R. Holser, L. Keehan, A. Favilla, A. Lankow","J. Kendall-Bar, R. Holser, L. Keehan, A. Favilla, R. Beltran","R. Holser, J. Kendall-Bar, L. Keehan, A. Favilla, A. Lankow, R. Jones","R.Holser, J.Kendall-Bar, A.Favilla, R.Beltran, L.Keehan","R. Holser, J. Kendall-Bar, C. Brown, J. Tremblay, A. Patrician"
+Release Crew,"Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar, Roxanne Beltran","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar","Patrick Robinson, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","Rachel Holser, Logan Pallin, and Daniel Lozano.","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Patrick Robinson","R. Holser, L. Keehan, and J. Kendall-Bar","R. Holser, L. Keehan, A. Favilla, A. Lankow","R. Holser, J. Kendall-Bar, A. Favilla, L. Keehan, A. Lankow","R. Holser, J. Kendall-Bar, C. Kroeger","J.Kendall-Bar, P.Robinson, R.Beltran","Resight comment for recovery: Seal was instrumented and translocated on April 2 as part of sleep study by J.Kendall-Bar TOPPID 2022033. Instrument was recovered today, animal looks healthy and in good body condition. Made sure to check on headcap region and eyes regarding previous concerns and all seems normal."
+Animal Comment,"Animal brought to Long Marine Lab on Thursday 24 Oct 19 for Somniseal EEG testing by Jessie Kendall-Bar, drugged 3 times overall, and released back to MBBL on 29 Oct 19.","Superweaner from moms 7025 (wean date March 5) and 7666 (wean date Feb 14), seen on colony for many months after weaned","Animal has OK fur, a little bit sparse on the back, but seems OK- also has some scarring in the animal's right eye",Animal was brought to LML as part of JKB Sleep Study from Sept 27 to Oct 2nd. TOPPID 2020047.,This animal was tagged as a weanling in March 2019 down in Piedras Blancas and was brought to LML as part of JKB Sleep Study from Oct 9 to Oct 14. TOPPID 2020048.,Animal was brought to LML as part of JKB Sleep Study from Oct 16 to Oct 22. TOPPID 2020049.,Animal was brought to LML as part of JKB Sleep Study from Oct 24 to Oct 29. TOPPID 2020050.,"Resight comment for recovery: Seal was instrumented on March 27 as part of sleep study by J.Kendall-Bar TOPPID 2021047. Instrument was recovered today, animal looks healthy and in good body condition. Made sure to check on headcap region and eyes regarding previous concerns and all seems normal.",Animal went to sea before returning to Pole 1,0,0,0,
+Post-study Sighting with Patches Date,11/2/2019,1/11/2021,5/7/2020,n/a,10/16/2020,n/a,n/a,,,,,,
+Post-study Sighting with Patches Comments,Lots of old tag instrumentation left on this animal - very aggressive,Observed by Sarah Codde and confirmed with photograph. Seal still has epoxy patches from previous study.,Patches from JKB sleep study,n/a,"Lots of glue, very pissed off seal, watch out for it.",n/a,n/a,,,,,,
+Post-study Sighting without Patches Date,n/a,n/a,5/16/2020,n/a,n/a,n/a,n/a,,,,,,
+Post-study Sighting without Patches Comments,n/a,n/a,No comment,n/a,n/a,n/a,n/a,,,,,,
+Scorable Without ICA,no,yes,,,,,,,,,,,
+Begin Calm in Water for ICA,10/28/2019 05:52:00,04/12/2020 09:34:41,04/27/2020 07:35:19,10/01/2020 04:36:18,10/11/2020 19:54:52,10/19/2020 22:46:18,10/26/2020 18:10:02,03/30/2021 13:14:10,04/05/2021 16:35:34,04/13/2021 09:23:40,04/22/2021 16:57:08,04/28/2021 13:16:20,04/03/2022 21:24:13
+End Calm in Water for ICA,10/28/2019 06:08:00,04/12/2020 09:47:19,04/27/2020 07:42:47,10/01/2020 04:54:12,10/11/2020 20:04:22,10/19/2020 22:56:03,10/26/2020 18:23:45,03/30/2021 13:19:38,04/05/2021 16:45:42,04/13/2021 09:43:49,04/22/2021 17:08:30,04/28/2021 13:36:00,04/03/2022 21:36:07
+Duration for ICA,00:16:00,00:12:38,00:07:28,00:17:54,00:09:31,00:09:45,00:13:43,00:05:28,00:10:08,00:20:09,00:11:22,00:19:40,00:11:54
+Best EOG EMG EEG,"2,4,7,8","3,4,7,8","3,5,7,8","2,4,7,8","3,4,7,8","3,4,7,8","2,5,7,8","3,5,7,8","2,4,7,8","3,5,6,7","3,5,7,8","3,5,6,9","2,4,7,8"
+ICA Decomposition Quality,Excellent,Good,,Good,OK,OK,Excellent,OK,Good,Good,Good,OK,Good
+ICA Component Maximal Brain,5,6,7,8,8,8,7,8,8,6,9,4,8
+ICA Component Maximal Heart,2,1,2,3,3,3,2,1,7,1,8,6,1
+Pruned with ICA Components,"1,2","1,2,3,4","1,2,3,9","1,2,3,6","1,3,4,7","1,3,4,7","1,2,3,4","1,3,7","1,2,4,7,9","1,3,5","1,2,3,4,8","1,2,3,6","1,2,3,5"
+Channel Configuration,[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[14 15 16 19 20 17 21 25 29],[19 16 15 18 17 20 21 25 29],[19 16 15 18 17 20 21 25 29],[19 16 15 18 17 20 21 25 29],[19 16 15 18 17 20 21 25 29],[19 16 15 18 17 20 21 25 29],[19 16 15 18 17 20 21 25 29]
+Attachment Orientation,right side up,upside down,upside down,upside down,upside down,upside down,upside down,on its side,on its side,on its side,on its side,on its side,on its side
+Time for orientation,10/25/2019 14:45:36,04/11/2020 16:55:00,04/25/2020 11:16:00,09/27/2020 13:09:27,10/09/2020 14:10:37,10/17/2020 17:39:56,10/24/2020 13:46:00,03/27/2021 11:18:03,04/05/2021 09:35:04,04/11/2021 10:48:55,04/20/2021 18:02:09,04/26/2021 11:17:32,
+AccX during attachment,-0.073377463,0.089426632,0.174751642,-0.078996958,-0.06641343,0.109207,-0.00152,-0.034789096,0.055528,-0.1329,0.006329,-0.02192,
+AccY during attachment,-0.013335098,-0.050311958,0.073649269,-0.011624493,-0.034742869,-0.03581,-0.06516,-0.966507315,-0.99528,-0.93947,-1.00368,-0.97304,
+AccZ during attachment,-0.9816,1.0062,0.9974,1.0071,1.0103,1.0123,1.0185,-0.2335,0.1332,-0.3001,-0.0485,-0.2173,
+Data Comments from Alexei,"Test12 files.
+Test24 Matlab files modified. I.e. without unnecessary intermediate variables.
+Updated Neurologger3Converter&Visualizer",,,,"Test12 files.
+Test24 Matlab files modified. I.e. without unnecessary intermediate variables.
+Updated Neurologger3Converter&Visualizer",,,"Start time was inserted automatically from RTC.
+Test30 has no any restarts.","Test31 has 1 restart 220 seconds before logger shutdown. hese last 220s record most
+probably can be neglected and I did not do any time correction of the last very short
+piece. Internal logger crystal has precision 15 ppm at 25+/-3 degrees C, and 25 pmm at other temperatures.",,,,
+Galumph Start,,,,,,,,,,,04/20/2021 20:59:05,,
+Galumph STOP,,,,,,,,,,,04/20/2021 20:59:15,,

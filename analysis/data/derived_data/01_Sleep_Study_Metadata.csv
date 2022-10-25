@@ -1,0 +1,1598 @@
+"description","value","TestID","R.Time","Matlab.Time"
+"Recording.ID","CAPTIVE_1yr-juvenile","test12_Wednesday",NA,NA
+"Test.Number","12","test12_Wednesday",NA,NA
+"Deployment","1","test12_Wednesday",NA,NA
+"Seal.Number","12","test12_Wednesday",NA,NA
+"Sex","F","test12_Wednesday",NA,NA
+"Version","V1","test12_Wednesday",NA,NA
+"Age","(0,1]","test12_Wednesday",NA,NA
+"Age.Estimate","~0.8 years old","test12_Wednesday",NA,NA
+"Seal.ID","E645","test12_Wednesday",NA,NA
+"Pressed.Start.Logger","10/25/2019 08:20:50","test12_Wednesday",2019-10-25 08:20:50,2019-10-25 08:20:50
+"Logger.Start","10/25/2019 08:21:02","test12_Wednesday",2019-10-25 08:21:02,2019-10-25 08:21:02
+"Start.for.EDF.Files","10/25/2019 08:21:03.000","test12_Wednesday",2019-10-25 08:21:03,2019-10-25 08:21:03
+"Duration_ON_ANIMAL_h","81.86","test12_Wednesday",NA,NA
+"ON.ANIMAL","10/25/2019 14:45:22","test12_Wednesday",2019-10-25 14:45:22,2019-10-25 14:45:22
+"Capture_ANO_InitialStick","10/24/2019 17:33:15","test12_Wednesday",2019-10-24 17:33:15,2019-10-24 17:33:15
+"Capture_ANO_LastDose","10/24/2019 17:58:41","test12_Wednesday",2019-10-24 17:58:41,2019-10-24 17:58:41
+"Attachment_InitialStick","10/25/2019 13:38:21","test12_Wednesday",2019-10-25 13:38:21,2019-10-25 13:38:21
+"Attachment_LastDose","10/25/2019 14:46:15","test12_Wednesday",2019-10-25 14:46:15,2019-10-25 14:46:15
+"Removal_InitialStick","10/29/2019 15:08:00","test12_Wednesday",2019-10-29 15:08:00,2019-10-29 15:08:00
+"Removal_LastDose","10/29/2019 15:41:00","test12_Wednesday",2019-10-29 15:41:00,2019-10-29 15:41:00
+"Electrodes.unplugged.from.logger_recorded.time","not recorded - off","test12_Wednesday",NA,NA
+"Logger.Stop","not recorded - off","test12_Wednesday",NA,NA
+"Actual.Start.Time_CATS.toolbox","10/25/2019 08:21:03.000","test12_Wednesday",2019-10-25 08:21:03,2019-10-25 08:21:03
+"Logger.Used","L2","test12_Wednesday",NA,NA
+"SD.Card.Used","2","test12_Wednesday",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test12_Wednesday",NA,NA
+"Restarts.Present","Yes","test12_Wednesday",NA,NA
+"Number.of.Restarts","13","test12_Wednesday",NA,NA
+"X.factor.per.restart","0","test12_Wednesday",NA,NA
+"First.Restart.Seconds.Elapsed","78400.588","test12_Wednesday",NA,NA
+"Last.Restart.Seconds.Elapsed","278062.4055","test12_Wednesday",NA,NA
+"First.Restart.Time","10/26/2019 06:07:42.588","test12_Wednesday",2019-10-26 06:07:42,2019-10-26 06:07:42
+"Last.Restart.Time","10/28/2019 13:35:24.405","test12_Wednesday",2019-10-28 13:35:24,2019-10-28 13:35:24
+"Device.Failure","Yes","test12_Wednesday",NA,NA
+"Mass.with.cage_kg","200","test12_Wednesday",NA,NA
+"Mass.cage_kg","82","test12_Wednesday",NA,NA
+"Mass.animal._kg","118","test12_Wednesday",NA,NA
+"Flipper.Tag.1","GE645","test12_Wednesday",NA,NA
+"Position","L-ou-Si","test12_Wednesday",NA,NA
+"Flipper.Tag.2","GG734","test12_Wednesday",NA,NA
+"Position.1","R-iu-So","test12_Wednesday",NA,NA
+"Mark","No Mark","test12_Wednesday",NA,NA
+"Mark.Position","No Mark","test12_Wednesday",NA,NA
+"Birth.date","probably in 2019","test12_Wednesday",NA,NA
+"Wean.date","unknown","test12_Wednesday",NA,NA
+"Tagged.date","unknown","test12_Wednesday",NA,NA
+"Wean.weight_kg","unknown","test12_Wednesday",NA,NA
+"Weaner.ID","unknown","test12_Wednesday",NA,NA
+"Wean.Standard.Length","unknown","test12_Wednesday",NA,NA
+"Wean.Ax.Girth","unknown","test12_Wednesday",NA,NA
+"Animal.ID","51163","test12_Wednesday",NA,NA
+"Deployment.Resight.ID","334707","test12_Wednesday",NA,NA
+"Deploy.ID","NESE0000LOML","test12_Wednesday",NA,NA
+"Seal.ID.1","E645","test12_Wednesday",NA,NA
+"TOPP.ID","2019058","test12_Wednesday",NA,NA
+"Deploy.Latitude","36.948644","test12_Wednesday",NA,NA
+"Deploy.Longitude","-122.065416","test12_Wednesday",NA,NA
+"Initial.sedation.location","BBNS","test12_Wednesday",NA,NA
+"Blood","Yes","test12_Wednesday",NA,NA
+"Standard.Length","154","test12_Wednesday",NA,NA
+"Curved.Length","179","test12_Wednesday",NA,NA
+"Ax.Girth","132","test12_Wednesday",NA,NA
+"Whisker","N","test12_Wednesday",NA,NA
+"Fur","N","test12_Wednesday",NA,NA
+"Blubber","N","test12_Wednesday",NA,NA
+"Instruments","Sleep Tag","test12_Wednesday",NA,NA
+"First.Calibration.Event.Type","Galumphing","test12_Wednesday",NA,NA
+"First.Calibration.Event.Start","10/25/2019 14:58:59","test12_Wednesday",2019-10-25 14:58:59,2019-10-25 14:58:59
+"First.Calibration.Event.End","10/25/2019 14:59:12","test12_Wednesday",2019-10-25 14:59:12,2019-10-25 14:59:12
+"Expected.Duration","00:00:13.000","test12_Wednesday",NA,NA
+"Logger.Event.Time.Start_TYPE","10/25/2019 16:58:59.000","test12_Wednesday",2019-10-25 16:58:59,2019-10-25 16:58:59
+"Logger.Event.Time.End_TYPE","10/25/2019 16:59:12.000","test12_Wednesday",2019-10-25 16:59:12,2019-10-25 16:59:12
+"Actual.Duration","00:00:13.000","test12_Wednesday",NA,NA
+"Last.Calibration.Event.2.Start","not recorded - off","test12_Wednesday",NA,NA
+"Last.Calibration.Event.2.End","not recorded - off","test12_Wednesday",NA,NA
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 16:48:00.690","test12_Wednesday",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 16:48:10.630","test12_Wednesday",NA,NA
+"Actual.Duration.1","00:00:09.940","test12_Wednesday",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","#VALUE!","test12_Wednesday",NA,NA
+"Additional.Sync.Event.Start","Time of water entry:","test12_Wednesday",NA,NA
+"Additional.Sync.Event.End","10/27/2019 16:39:33","test12_Wednesday",2019-10-27 16:39:33,2019-10-27 16:39:33
+"Time.of.water.entry","10/27/2019 16:39:33","test12_Wednesday",2019-10-27 16:39:33,2019-10-27 16:39:33
+"Recording.Duration_s","317752.316","test12_Wednesday",NA,NA
+"Recording.Duration_days","3.677688843","test12_Wednesday",NA,NA
+"Extra.Sedation","No","test12_Wednesday",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test12_Wednesday",NA,NA
+"Pickup.Crew","Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla","test12_Wednesday",NA,NA
+"Attachment.Crew","Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla","test12_Wednesday",NA,NA
+"Release.Crew","Patrick Robinson, Jessie Kendall-Bar, Jason Mulsow, Ryan Jones, Oleg Lyamin, Julie Pitman, Roxy Cuthbertson, Lilian Carswell, Arina Favilla","test12_Wednesday",NA,NA
+"Animal.Comment","Animal brought to Long Marine Lab on Thursday 24 Oct 19 for Somniseal EEG testing by Jessie Kendall-Bar, drugged 3 times overall, and released back to MBBL on 29 Oct 19.","test12_Wednesday",NA,NA
+"Post.study.Sighting.with.Patches.Date","11/2/2019","test12_Wednesday",NA,NA
+"Post.study.Sighting.with.Patches.Comments","Lots of old tag instrumentation left on this animal - very aggressive","test12_Wednesday",NA,NA
+"Scorable.Without.ICA","no","test12_Wednesday",NA,NA
+"Begin.Calm.in.Water.for.ICA","10/28/2019 05:52:00","test12_Wednesday",2019-10-28 05:52:00,2019-10-28 05:52:00
+"End.Calm.in.Water.for.ICA","10/28/2019 06:08:00","test12_Wednesday",2019-10-28 06:08:00,2019-10-28 06:08:00
+"Duration.for.ICA","00:16:00","test12_Wednesday",NA,NA
+"Best.EOG.EMG.EEG","2,4,7,8","test12_Wednesday",NA,NA
+"ICA.Decomposition.Quality","Excellent","test12_Wednesday",NA,NA
+"ICA.Component.Maximal.Brain","5","test12_Wednesday",NA,NA
+"ICA.Component.Maximal.Heart","2","test12_Wednesday",NA,NA
+"Pruned.with.ICA.Components","1,2","test12_Wednesday",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test12_Wednesday",NA,NA
+"Attachment.Orientation","right side up","test12_Wednesday",NA,NA
+"Time.for.orientation","10/25/2019 14:45:36","test12_Wednesday",2019-10-25 14:45:36,2019-10-25 14:45:36
+"AccX.during.attachment","-0.073377463","test12_Wednesday",NA,NA
+"AccY.during.attachment","-0.013335098","test12_Wednesday",NA,NA
+"AccZ.during.attachment","-0.9816","test12_Wednesday",NA,NA
+"Data.Comments.from.Alexei","Test12 files.
+Test24 Matlab files modified. I.e. without unnecessary intermediate variables.
+Updated Neurologger3Converter&Visualizer","test12_Wednesday",NA,NA
+"Recording.ID","WILD_2mo-weanling","test20_SnoozySuzy",NA,NA
+"Test.Number","20","test20_SnoozySuzy",NA,NA
+"Deployment","2","test20_SnoozySuzy",NA,NA
+"Seal.Number","17","test20_SnoozySuzy",NA,NA
+"Sex","F","test20_SnoozySuzy",NA,NA
+"Version","V2","test20_SnoozySuzy",NA,NA
+"Age","(0,1]","test20_SnoozySuzy",NA,NA
+"Age.Estimate","75 days old","test20_SnoozySuzy",NA,NA
+"Seal.ID","H312","test20_SnoozySuzy",NA,NA
+"Pressed.Start.Logger","04/10/2020 17:09:51","test20_SnoozySuzy",2020-04-10 17:09:51,2020-04-10 17:09:51
+"Logger.Start","04/10/2020 17:10:03","test20_SnoozySuzy",2020-04-10 17:10:03,2020-04-10 17:10:03
+"Start.for.EDF.Files","04/10/2020 17:10:01.52","test20_SnoozySuzy",2020-04-10 17:10:01,2020-04-10 17:10:01
+"Duration_ON_ANIMAL_h","73.81","test20_SnoozySuzy",NA,NA
+"ON.ANIMAL","04/11/2020 16:46:25","test20_SnoozySuzy",2020-04-11 16:46:25,2020-04-11 16:46:25
+"OFF.ANIMAL","04/14/2020 18:34:59","test20_SnoozySuzy",2020-04-14 18:34:59,2020-04-14 18:34:59
+"Attachment_InitialStick","04/11/2020 15:47:00","test20_SnoozySuzy",2020-04-11 15:47:00,2020-04-11 15:47:00
+"Attachment_LastDose","04/11/2020 17:07:00","test20_SnoozySuzy",2020-04-11 17:07:00,2020-04-11 17:07:00
+"Attachment_Cortisol","3.123","test20_SnoozySuzy",NA,NA
+"Attachment_cv","3.17","test20_SnoozySuzy",NA,NA
+"Removal_InitialStick","04/14/2020 18:11:00","test20_SnoozySuzy",2020-04-14 18:11:00,2020-04-14 18:11:00
+"Removal_LastDose","04/14/2020 18:42:00","test20_SnoozySuzy",2020-04-14 18:42:00,2020-04-14 18:42:00
+"Logger.Stop","not recorded - off","test20_SnoozySuzy",NA,NA
+"Actual.Start.Time_CATS.toolbox","04/10/2020 17:10:01.520","test20_SnoozySuzy",2020-04-10 17:10:01,2020-04-10 17:10:01
+"Logger.Used","L2","test20_SnoozySuzy",NA,NA
+"SD.Card.Used","2","test20_SnoozySuzy",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test20_SnoozySuzy",NA,NA
+"Restarts.Present","No","test20_SnoozySuzy",NA,NA
+"Number.of.Restarts","0","test20_SnoozySuzy",NA,NA
+"Device.Failure","No","test20_SnoozySuzy",NA,NA
+"Mass.animal._kg","~200 (not weighed)","test20_SnoozySuzy",NA,NA
+"Flipper.Tag.1","GH312","test20_SnoozySuzy",NA,NA
+"Position","R-ou-Si","test20_SnoozySuzy",NA,NA
+"Flipper.Tag.2","GH510","test20_SnoozySuzy",NA,NA
+"Position.1","L-iu-Si","test20_SnoozySuzy",NA,NA
+"Mark","702","test20_SnoozySuzy",NA,NA
+"Mark.Position","R,L","test20_SnoozySuzy",NA,NA
+"Birth.date","b/w Jan-23 & 29","test20_SnoozySuzy",NA,NA
+"Wean.date","03/05/2020 00:00:00","test20_SnoozySuzy",2020-03-05 00:00:00,2020-03-05 00:00:00
+"Tagged.date","unknown","test20_SnoozySuzy",NA,NA
+"Wean.weight_kg","199.8","test20_SnoozySuzy",NA,NA
+"Weaner.ID","not recorded","test20_SnoozySuzy",NA,NA
+"Wean.Standard.Length","unknown","test20_SnoozySuzy",NA,NA
+"Wean.Ax.Girth","unknown","test20_SnoozySuzy",NA,NA
+"Animal.ID","51536","test20_SnoozySuzy",NA,NA
+"Deployment.Resight.ID","347591","test20_SnoozySuzy",NA,NA
+"Deploy.ID","NESE0840ANNU","test20_SnoozySuzy",NA,NA
+"Seal.ID.1","H312","test20_SnoozySuzy",NA,NA
+"TOPP.ID","2020045","test20_SnoozySuzy",NA,NA
+"Deploy.Latitude","37.113761","test20_SnoozySuzy",NA,NA
+"Deploy.Longitude","-122.327811","test20_SnoozySuzy",NA,NA
+"Initial.sedation.location","APG","test20_SnoozySuzy",NA,NA
+"Blood","Yes","test20_SnoozySuzy",NA,NA
+"Hematocrit","58 / 58 / 57 / broke","test20_SnoozySuzy",NA,NA
+"Standard.Length","165","test20_SnoozySuzy",NA,NA
+"Curved.Length","177","test20_SnoozySuzy",NA,NA
+"Ax.Girth","143","test20_SnoozySuzy",NA,NA
+"Whisker","N","test20_SnoozySuzy",NA,NA
+"Fur","N","test20_SnoozySuzy",NA,NA
+"Blubber","N","test20_SnoozySuzy",NA,NA
+"Instruments","Sleep Tag & BBC & VHF 148.535","test20_SnoozySuzy",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test20_SnoozySuzy",NA,NA
+"First.Calibration.Event.Start","04/11/2020 17:37:00","test20_SnoozySuzy",2020-04-11 17:37:00,2020-04-11 17:37:00
+"First.Calibration.Event.End","04/11/2020 17:37:10","test20_SnoozySuzy",2020-04-11 17:37:10,2020-04-11 17:37:10
+"Expected.Duration","00:00:10.000","test20_SnoozySuzy",NA,NA
+"Logger.Event.Time.Start_TYPE","04/11/2020 17:36:59.700","test20_SnoozySuzy",2020-04-11 17:36:59,2020-04-11 17:36:59
+"Logger.Event.Time.End_TYPE","04/11/2020 17:37:09.740","test20_SnoozySuzy",2020-04-11 17:37:09,2020-04-11 17:37:09
+"Actual.Duration","00:00:10.040","test20_SnoozySuzy",NA,NA
+"Event2_type","Calibration Shake","test20_SnoozySuzy",NA,NA
+"Last.Calibration.Event.2.Start","04/14/2020 20:26:00","test20_SnoozySuzy",2020-04-14 20:26:00,2020-04-14 20:26:00
+"Last.Calibration.Event.2.End","04/14/2020 20:26:10","test20_SnoozySuzy",2020-04-14 20:26:10,2020-04-14 20:26:10
+"Logger.Event.Time.Start_TYPE.1","04/14/2020 20:25:55.680","test20_SnoozySuzy",2020-04-14 20:25:55,2020-04-14 20:25:55
+"Logger.Event.Time.End_TYPE.1","04/14/2020 20:26:07.920","test20_SnoozySuzy",2020-04-14 20:26:07,2020-04-14 20:26:07
+"Actual.Duration.1","00:00:12.240","test20_SnoozySuzy",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","00:00:04.020","test20_SnoozySuzy",NA,NA
+"Additional.Sync.Event.Start","04/12/2020 16:39:00","test20_SnoozySuzy",2020-04-12 16:39:00,2020-04-12 16:39:00
+"Additional.Sync.Event.End","04/12/2020 16:39:05","test20_SnoozySuzy",2020-04-12 16:39:05,2020-04-12 16:39:05
+"Time.of.water.entry","04/11/2020 22:53:37","test20_SnoozySuzy",2020-04-11 22:53:37,2020-04-11 22:53:37
+"Recording.Duration_s","361858.448","test20_SnoozySuzy",NA,NA
+"Recording.Duration_days","4.188176481","test20_SnoozySuzy",NA,NA
+"Extra.Sedation","No","test20_SnoozySuzy",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test20_SnoozySuzy",NA,NA
+"Attachment.Crew","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar, Roxanne Beltran","test20_SnoozySuzy",NA,NA
+"Release.Crew","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar, Roxanne Beltran","test20_SnoozySuzy",NA,NA
+"Animal.Comment","Superweaner from moms 7025 (wean date March 5) and 7666 (wean date Feb 14), seen on colony for many months after weaned","test20_SnoozySuzy",NA,NA
+"Post.study.Sighting.with.Patches.Date","1/11/2021","test20_SnoozySuzy",NA,NA
+"Post.study.Sighting.with.Patches.Comments","Observed by Sarah Codde and confirmed with photograph. Seal still has epoxy patches from previous study.","test20_SnoozySuzy",NA,NA
+"Scorable.Without.ICA","yes","test20_SnoozySuzy",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/12/2020 09:34:41","test20_SnoozySuzy",2020-04-12 09:34:41,2020-04-12 09:34:41
+"End.Calm.in.Water.for.ICA","04/12/2020 09:47:19","test20_SnoozySuzy",2020-04-12 09:47:19,2020-04-12 09:47:19
+"Duration.for.ICA","00:12:38","test20_SnoozySuzy",NA,NA
+"Best.EOG.EMG.EEG","3,4,7,8","test20_SnoozySuzy",NA,NA
+"ICA.Decomposition.Quality","Good","test20_SnoozySuzy",NA,NA
+"ICA.Component.Maximal.Brain","6","test20_SnoozySuzy",NA,NA
+"ICA.Component.Maximal.Heart","1","test20_SnoozySuzy",NA,NA
+"Pruned.with.ICA.Components","1,2,3,4","test20_SnoozySuzy",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test20_SnoozySuzy",NA,NA
+"Attachment.Orientation","upside down","test20_SnoozySuzy",NA,NA
+"Time.for.orientation","04/11/2020 16:55:00","test20_SnoozySuzy",2020-04-11 16:55:00,2020-04-11 16:55:00
+"AccX.during.attachment","0.089426632","test20_SnoozySuzy",NA,NA
+"AccY.during.attachment","-0.050311958","test20_SnoozySuzy",NA,NA
+"AccZ.during.attachment","1.0062","test20_SnoozySuzy",NA,NA
+"Recording.ID","WILD_2yr-juvenile","test21_DozyDaisy",NA,NA
+"Test.Number","21","test21_DozyDaisy",NA,NA
+"Deployment","3","test21_DozyDaisy",NA,NA
+"Seal.Number","22","test21_DozyDaisy",NA,NA
+"Sex","F","test21_DozyDaisy",NA,NA
+"Version","V2","test21_DozyDaisy",NA,NA
+"Age","(2,3]","test21_DozyDaisy",NA,NA
+"Age.Estimate","2.2 years old","test21_DozyDaisy",NA,NA
+"Seal.ID","E411","test21_DozyDaisy",NA,NA
+"Pressed.Start.Logger","04/24/2020 16:59:48","test21_DozyDaisy",2020-04-24 16:59:48,2020-04-24 16:59:48
+"Logger.Start","04/24/2020 17:00:00","test21_DozyDaisy",2020-04-24 17:00:00,2020-04-24 17:00:00
+"Start.for.EDF.Files","04/24/2020 17:00:01.00","test21_DozyDaisy",2020-04-24 17:00:01,2020-04-24 17:00:01
+"Duration_ON_ANIMAL_h","75.16","test21_DozyDaisy",NA,NA
+"ON.ANIMAL","04/25/2020 11:14:55","test21_DozyDaisy",2020-04-25 11:14:55,2020-04-25 11:14:55
+"OFF.ANIMAL","04/28/2020 14:24:13","test21_DozyDaisy",2020-04-28 14:24:13,2020-04-28 14:24:13
+"Attachment_InitialStick","04/25/2020 09:58:00","test21_DozyDaisy",2020-04-25 09:58:00,2020-04-25 09:58:00
+"Attachment_LastDose","04/25/2020 11:12:00","test21_DozyDaisy",2020-04-25 11:12:00,2020-04-25 11:12:00
+"Attachment_Cortisol","5.144","test21_DozyDaisy",NA,NA
+"Attachment_cv","0.67","test21_DozyDaisy",NA,NA
+"Removal_InitialStick","04/28/2020 14:05:00","test21_DozyDaisy",2020-04-28 14:05:00,2020-04-28 14:05:00
+"Removal_LastDose","04/28/2020 14:33:00","test21_DozyDaisy",2020-04-28 14:33:00,2020-04-28 14:33:00
+"Logger.Stop","04/28/2020 17:55:00","test21_DozyDaisy",2020-04-28 17:55:00,2020-04-28 17:55:00
+"Actual.Start.Time_CATS.toolbox","04/24/2020 16:59:58.920","test21_DozyDaisy",2020-04-24 16:59:58,2020-04-24 16:59:58
+"Logger.Used","L2","test21_DozyDaisy",NA,NA
+"SD.Card.Used","2","test21_DozyDaisy",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test21_DozyDaisy",NA,NA
+"Restarts.Present","Yes","test21_DozyDaisy",NA,NA
+"Number.of.Restarts","3","test21_DozyDaisy",NA,NA
+"X.factor.per.restart","0","test21_DozyDaisy",NA,NA
+"First.Restart.Seconds.Elapsed","111729.716","test21_DozyDaisy",NA,NA
+"Last.Restart.Seconds.Elapsed","124116.4562","test21_DozyDaisy",NA,NA
+"First.Restart.Time","04/26/2020 00:02:09.716","test21_DozyDaisy",2020-04-26 00:02:09,2020-04-26 00:02:09
+"Last.Restart.Time","04/26/2020 03:28:36.456","test21_DozyDaisy",2020-04-26 03:28:36,2020-04-26 03:28:36
+"Device.Failure","No","test21_DozyDaisy",NA,NA
+"Mass.animal._kg","around 120","test21_DozyDaisy",NA,NA
+"Flipper.Tag.1","GE411","test21_DozyDaisy",NA,NA
+"Position","L-iu-So","test21_DozyDaisy",NA,NA
+"Flipper.Tag.2","GG751","test21_DozyDaisy",NA,NA
+"Position.1","R-ou-Si","test21_DozyDaisy",NA,NA
+"Mark","E411","test21_DozyDaisy",NA,NA
+"Mark.Position","R,L","test21_DozyDaisy",NA,NA
+"Birth.date","in 2018","test21_DozyDaisy",NA,NA
+"Wean.date","unknown","test21_DozyDaisy",NA,NA
+"Tagged.date","unknown","test21_DozyDaisy",NA,NA
+"Wean.weight_kg","unknown","test21_DozyDaisy",NA,NA
+"Weaner.ID","not recorded","test21_DozyDaisy",NA,NA
+"Wean.Standard.Length","unknown","test21_DozyDaisy",NA,NA
+"Wean.Ax.Girth","unknown","test21_DozyDaisy",NA,NA
+"Animal.ID","49677","test21_DozyDaisy",NA,NA
+"Deployment.Resight.ID","348614","test21_DozyDaisy",NA,NA
+"Deploy.ID","NESE0841ANNU","test21_DozyDaisy",NA,NA
+"Seal.ID.1","E411","test21_DozyDaisy",NA,NA
+"TOPP.ID","2020046","test21_DozyDaisy",NA,NA
+"Deploy.Latitude","37.113761","test21_DozyDaisy",NA,NA
+"Deploy.Longitude","-122.327811","test21_DozyDaisy",NA,NA
+"Initial.sedation.location","BBN","test21_DozyDaisy",NA,NA
+"Attachment.Time..GMT.","04/25/2020 16:58:00","test21_DozyDaisy",2020-04-25 16:58:00,2020-04-25 16:58:00
+"Attachment.Latitude","37.117909","test21_DozyDaisy",NA,NA
+"Attachment.Longitude","-122.335927","test21_DozyDaisy",NA,NA
+"Recovery.procedure.location","BBN","test21_DozyDaisy",NA,NA
+"Recovery.Time..GMT.","#VALUE!","test21_DozyDaisy",NA,NA
+"Recovery.Latitude","37.117909","test21_DozyDaisy",NA,NA
+"Recovery.Longitude","-122.335927","test21_DozyDaisy",NA,NA
+"Blood","Yes?","test21_DozyDaisy",NA,NA
+"Standard.Length","187","test21_DozyDaisy",NA,NA
+"Curved.Length","200","test21_DozyDaisy",NA,NA
+"Ax.Girth","102","test21_DozyDaisy",NA,NA
+"Whisker","Y - LD1","test21_DozyDaisy",NA,NA
+"Fur","N","test21_DozyDaisy",NA,NA
+"Blubber","N","test21_DozyDaisy",NA,NA
+"Ultrasound.skull.depth_cm","2.50","test21_DozyDaisy",NA,NA
+"Instruments","Sleep Tag & MK10 09A0140 - no GPS","test21_DozyDaisy",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test21_DozyDaisy",NA,NA
+"First.Calibration.Event.Start","04/24/2020 23:35:30","test21_DozyDaisy",2020-04-24 23:35:30,2020-04-24 23:35:30
+"First.Calibration.Event.End","04/24/2020 23:35:40","test21_DozyDaisy",2020-04-24 23:35:40,2020-04-24 23:35:40
+"Expected.Duration","00:00:10.000","test21_DozyDaisy",NA,NA
+"Logger.Event.Time.Start_TYPE","04/24/2020 23:35:31.000","test21_DozyDaisy",2020-04-24 23:35:31,2020-04-24 23:35:31
+"Logger.Event.Time.End_TYPE","04/24/2020 23:35:40.000","test21_DozyDaisy",2020-04-24 23:35:40,2020-04-24 23:35:40
+"Actual.Duration","00:00:09.000","test21_DozyDaisy",NA,NA
+"Event2_type","Calibration Shake","test21_DozyDaisy",NA,NA
+"Last.Calibration.Event.2.Start","04/28/2020 17:45:00","test21_DozyDaisy",2020-04-28 17:45:00,2020-04-28 17:45:00
+"Last.Calibration.Event.2.End","04/28/2020 17:45:10","test21_DozyDaisy",2020-04-28 17:45:10,2020-04-28 17:45:10
+"Logger.Event.Time.Start_TYPE.1","04/28/2020 17:44:17.340","test21_DozyDaisy",2020-04-28 17:44:17,2020-04-28 17:44:17
+"Logger.Event.Time.End_TYPE.1","04/28/2020 17:44:17.340","test21_DozyDaisy",2020-04-28 17:44:17,2020-04-28 17:44:17
+"Actual.Duration.1","00:00:00.000","test21_DozyDaisy",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","00:00:43.660","test21_DozyDaisy",NA,NA
+"Time.of.water.entry","04/25/2020 23:06:08","test21_DozyDaisy",2020-04-25 23:06:08,2020-04-25 23:06:08
+"Recording.Duration_s","348857.656","test21_DozyDaisy",NA,NA
+"Recording.Duration_days","4.037704352","test21_DozyDaisy",NA,NA
+"Recording.Duration_based.on.start.stop","4.038194444","test21_DozyDaisy",NA,NA
+"Extra.Sedation","No","test21_DozyDaisy",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test21_DozyDaisy",NA,NA
+"Attachment.Crew","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar","test21_DozyDaisy",NA,NA
+"Release.Crew","Patrick Robinson, Theresa Keates, Jessica Kendall-Bar","test21_DozyDaisy",NA,NA
+"Animal.Comment","Animal has OK fur, a little bit sparse on the back, but seems OK- also has some scarring in the animal's right eye","test21_DozyDaisy",NA,NA
+"Post.study.Sighting.with.Patches.Date","5/7/2020","test21_DozyDaisy",NA,NA
+"Post.study.Sighting.with.Patches.Comments","Patches from JKB sleep study","test21_DozyDaisy",NA,NA
+"Post.study.Sighting.without.Patches.Date","5/16/2020","test21_DozyDaisy",NA,NA
+"Post.study.Sighting.without.Patches.Comments","No comment","test21_DozyDaisy",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/27/2020 07:35:19","test21_DozyDaisy",2020-04-27 07:35:19,2020-04-27 07:35:19
+"End.Calm.in.Water.for.ICA","04/27/2020 07:42:47","test21_DozyDaisy",2020-04-27 07:42:47,2020-04-27 07:42:47
+"Duration.for.ICA","00:07:28","test21_DozyDaisy",NA,NA
+"Best.EOG.EMG.EEG","3,5,7,8","test21_DozyDaisy",NA,NA
+"ICA.Component.Maximal.Brain","7","test21_DozyDaisy",NA,NA
+"ICA.Component.Maximal.Heart","2","test21_DozyDaisy",NA,NA
+"Pruned.with.ICA.Components","1,2,3,9","test21_DozyDaisy",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test21_DozyDaisy",NA,NA
+"Attachment.Orientation","upside down","test21_DozyDaisy",NA,NA
+"Time.for.orientation","04/25/2020 11:16:00","test21_DozyDaisy",2020-04-25 11:16:00,2020-04-25 11:16:00
+"AccX.during.attachment","0.174751642","test21_DozyDaisy",NA,NA
+"AccY.during.attachment","0.073649269","test21_DozyDaisy",NA,NA
+"AccZ.during.attachment","0.9974","test21_DozyDaisy",NA,NA
+"Recording.ID","CAPTIVE_2yr-juvenile","test23_AshyAshley",NA,NA
+"Test.Number","23","test23_AshyAshley",NA,NA
+"Deployment","4","test23_AshyAshley",NA,NA
+"Seal.Number","14","test23_AshyAshley",NA,NA
+"Sex","F","test23_AshyAshley",NA,NA
+"Version","V2","test23_AshyAshley",NA,NA
+"Age","(1,2]","test23_AshyAshley",NA,NA
+"Age.Estimate","1.8 years old","test23_AshyAshley",NA,NA
+"Seal.ID","E710","test23_AshyAshley",NA,NA
+"Pressed.Start.Logger","09/26/2020 15:59:48","test23_AshyAshley",2020-09-26 15:59:48,2020-09-26 15:59:48
+"Logger.Start","09/26/2020 16:00:00","test23_AshyAshley",2020-09-26 16:00:00,2020-09-26 16:00:00
+"Start.for.EDF.Files","09/26/2020 15:59:59.240","test23_AshyAshley",2020-09-26 15:59:59,2020-09-26 15:59:59
+"Duration_ON_ANIMAL_h","116.85","test23_AshyAshley",NA,NA
+"ON.ANIMAL","09/27/2020 13:04:52","test23_AshyAshley",2020-09-27 13:04:52,2020-09-27 13:04:52
+"OFF.ANIMAL","10/02/2020 09:55:38","test23_AshyAshley",2020-10-02 09:55:38,2020-10-02 09:55:38
+"Capture_ANO_InitialStick","09/27/2020 09:57:00","test23_AshyAshley",2020-09-27 09:57:00,2020-09-27 09:57:00
+"Capture_ANO_LastDose","09/27/2020 09:57:00","test23_AshyAshley",2020-09-27 09:57:00,2020-09-27 09:57:00
+"Attachment_InitialStick","09/27/2020 12:18:20","test23_AshyAshley",2020-09-27 12:18:20,2020-09-27 12:18:20
+"Attachment_LastDose","09/27/2020 13:36:45","test23_AshyAshley",2020-09-27 13:36:45,2020-09-27 13:36:45
+"Adjustment_InitialStick","09/29/2020 15:28:16","test23_AshyAshley",2020-09-29 15:28:16,2020-09-29 15:28:16
+"Adjustment_LastDose","09/29/2020 15:28:16","test23_AshyAshley",2020-09-29 15:28:16,2020-09-29 15:28:16
+"Removal_InitialStick","10/02/2020 09:37:43","test23_AshyAshley",2020-10-02 09:37:43,2020-10-02 09:37:43
+"Removal_LastDose","10/02/2020 10:13:00","test23_AshyAshley",2020-10-02 10:13:00,2020-10-02 10:13:00
+"Removal_Cortisol","6.874","test23_AshyAshley",NA,NA
+"Removal_cv","1.65","test23_AshyAshley",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","10/02/2020 09:55:52","test23_AshyAshley",2020-10-02 09:55:52,2020-10-02 09:55:52
+"Logger.Stop","10/02/2020 11:05:00","test23_AshyAshley",2020-10-02 11:05:00,2020-10-02 11:05:00
+"Actual.Start.Time_CATS.toolbox","09/26/2020 15:59:59.240","test23_AshyAshley",2020-09-26 15:59:59,2020-09-26 15:59:59
+"Logger.Used","L1","test23_AshyAshley",NA,NA
+"SD.Card.Used","1","test23_AshyAshley",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test23_AshyAshley",NA,NA
+"Restarts.Present","Yes","test23_AshyAshley",NA,NA
+"Number.of.Restarts","7","test23_AshyAshley",NA,NA
+"X.factor.per.restart","1.437142857","test23_AshyAshley",NA,NA
+"First.Restart.Seconds.Elapsed","145619.628","test23_AshyAshley",NA,NA
+"Last.Restart.Seconds.Elapsed","477059.9047","test23_AshyAshley",NA,NA
+"First.Restart.Time","09/28/2020 08:26:59.628","test23_AshyAshley",2020-09-28 08:26:59,2020-09-28 08:26:59
+"Last.Restart.Time","10/02/2020 04:30:59.905","test23_AshyAshley",2020-10-02 04:30:59,2020-10-02 04:30:59
+"Device.Failure","No","test23_AshyAshley",NA,NA
+"Mass.with.cage_kg","222","test23_AshyAshley",NA,NA
+"Mass.cage_kg","81","test23_AshyAshley",NA,NA
+"Mass.animal._kg","141","test23_AshyAshley",NA,NA
+"Flipper.Tag.1","GE711","test23_AshyAshley",NA,NA
+"Position","R-iu-Si","test23_AshyAshley",NA,NA
+"Flipper.Tag.2","GE710","test23_AshyAshley",NA,NA
+"Position.1","L-il-Si","test23_AshyAshley",NA,NA
+"Mark","E711","test23_AshyAshley",NA,NA
+"Mark.Position","R","test23_AshyAshley",NA,NA
+"Birth.date","1/11/2019 (first sighting)","test23_AshyAshley",NA,NA
+"Wean.date","02/07/2019 00:00:00","test23_AshyAshley",2019-02-07 00:00:00,2019-02-07 00:00:00
+"Tagged.date","02/11/2019 00:00:00","test23_AshyAshley",2019-02-11 00:00:00,2019-02-11 00:00:00
+"Wean.weight_kg","137","test23_AshyAshley",NA,NA
+"Weaner.ID","513","test23_AshyAshley",NA,NA
+"Wean.Standard.Length","148","test23_AshyAshley",NA,NA
+"Wean.Ax.Girth","131","test23_AshyAshley",NA,NA
+"Animal.ID","49965","test23_AshyAshley",NA,NA
+"Deployment.Resight.ID","323448","test23_AshyAshley",NA,NA
+"Deploy.ID","NESE0005LOML","test23_AshyAshley",NA,NA
+"Seal.ID.1","E710","test23_AshyAshley",NA,NA
+"TOPP.ID","2020047","test23_AshyAshley",NA,NA
+"Deploy.Latitude","36.948644","test23_AshyAshley",NA,NA
+"Deploy.Longitude","-122.065416","test23_AshyAshley",NA,NA
+"Initial.sedation.location","BBN","test23_AshyAshley",NA,NA
+"Blood","Yes - red top from last removal procedure and purple tube stored","test23_AshyAshley",NA,NA
+"Hematocrit","52 / 52 / 52 / 52","test23_AshyAshley",NA,NA
+"Standard.Length","188","test23_AshyAshley",NA,NA
+"Curved.Length","199","test23_AshyAshley",NA,NA
+"Ax.Girth","124","test23_AshyAshley",NA,NA
+"Whisker","N","test23_AshyAshley",NA,NA
+"Fur","N","test23_AshyAshley",NA,NA
+"Blubber","N","test23_AshyAshley",NA,NA
+"Ultrasound.skull.depth_cm","2.01","test23_AshyAshley",NA,NA
+"Instruments","Yes - Neurologger & AEP Recording","test23_AshyAshley",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test23_AshyAshley",NA,NA
+"First.Calibration.Event.Start","09/26/2020 16:48:00","test23_AshyAshley",2020-09-26 16:48:00,2020-09-26 16:48:00
+"First.Calibration.Event.End","09/26/2020 16:48:10","test23_AshyAshley",2020-09-26 16:48:10,2020-09-26 16:48:10
+"Expected.Duration","00:00:10.000","test23_AshyAshley",NA,NA
+"Logger.Event.Time.Start_TYPE","09/26/2020 16:48:00.690","test23_AshyAshley",2020-09-26 16:48:00,2020-09-26 16:48:00
+"Logger.Event.Time.End_TYPE","09/26/2020 16:48:10.630","test23_AshyAshley",2020-09-26 16:48:10,2020-09-26 16:48:10
+"Actual.Duration","00:00:09.940","test23_AshyAshley",NA,NA
+"Event2_type","Calibration Shake","test23_AshyAshley",NA,NA
+"Last.Calibration.Event.2.Start","10/02/2020 11:04:30","test23_AshyAshley",2020-10-02 11:04:30,2020-10-02 11:04:30
+"Last.Calibration.Event.2.End","10/02/2020 11:04:40","test23_AshyAshley",2020-10-02 11:04:40,2020-10-02 11:04:40
+"Logger.Event.Time.Start_TYPE.1","10/02/2020 11:04:20.630","test23_AshyAshley",2020-10-02 11:04:20,2020-10-02 11:04:20
+"Logger.Event.Time.End_TYPE.1","10/02/2020 11:04:30.700","test23_AshyAshley",2020-10-02 11:04:30,2020-10-02 11:04:30
+"Actual.Duration.1","00:00:10.070","test23_AshyAshley",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","00:00:10.060","test23_AshyAshley",NA,NA
+"Type.in.OFFSET","10.06","test23_AshyAshley",NA,NA
+"Event3_type","Came Unplugged, was plugged back in","test23_AshyAshley",NA,NA
+"Additional.Sync.Event.Start","09/29/2020 14:21:46","test23_AshyAshley",2020-09-29 14:21:46,2020-09-29 14:21:46
+"Additional.Sync.Event.End","09/29/2020 15:39:14","test23_AshyAshley",2020-09-29 15:39:14,2020-09-29 15:39:14
+"Time.of.water.entry","09/29/2020 13:13:48","test23_AshyAshley",2020-09-29 13:13:48,2020-09-29 13:13:48
+"Recording.Duration_s","500603.236","test23_AshyAshley",NA,NA
+"Recording.Duration_days","5.794018935","test23_AshyAshley",NA,NA
+"Recording.Duration_based.on.start.stop","5.795138889","test23_AshyAshley",NA,NA
+"Extra.Sedation","Yes","test23_AshyAshley",NA,NA
+"Reason","Electrodes came unplugged","test23_AshyAshley",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test23_AshyAshley",NA,NA
+"Pickup.Crew","Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","test23_AshyAshley",NA,NA
+"Attachment.Crew","Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","test23_AshyAshley",NA,NA
+"Release.Crew","Patrick Robinson, Logan Pallin, Ryan Jones, Daniel Lozano, and Ishana Shukla.","test23_AshyAshley",NA,NA
+"Animal.Comment","Animal was brought to LML as part of JKB Sleep Study from Sept 27 to Oct 2nd. TOPPID 2020047.","test23_AshyAshley",NA,NA
+"Begin.Calm.in.Water.for.ICA","10/01/2020 04:36:18","test23_AshyAshley",2020-10-01 04:36:18,2020-10-01 04:36:18
+"End.Calm.in.Water.for.ICA","10/01/2020 04:54:12","test23_AshyAshley",2020-10-01 04:54:12,2020-10-01 04:54:12
+"Duration.for.ICA","00:17:54","test23_AshyAshley",NA,NA
+"Best.EOG.EMG.EEG","2,4,7,8","test23_AshyAshley",NA,NA
+"ICA.Decomposition.Quality","Good","test23_AshyAshley",NA,NA
+"ICA.Component.Maximal.Brain","8","test23_AshyAshley",NA,NA
+"ICA.Component.Maximal.Heart","3","test23_AshyAshley",NA,NA
+"Pruned.with.ICA.Components","1,2,3,6","test23_AshyAshley",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test23_AshyAshley",NA,NA
+"Attachment.Orientation","upside down","test23_AshyAshley",NA,NA
+"Time.for.orientation","09/27/2020 13:09:27","test23_AshyAshley",2020-09-27 13:09:27,2020-09-27 13:09:27
+"AccX.during.attachment","-0.078996958","test23_AshyAshley",NA,NA
+"AccY.during.attachment","-0.011624493","test23_AshyAshley",NA,NA
+"AccZ.during.attachment","1.0071","test23_AshyAshley",NA,NA
+"Recording.ID","CAPTIVE_2yr-juvenile","test24_BerthaBeauty",NA,NA
+"Test.Number","24","test24_BerthaBeauty",NA,NA
+"Deployment","5","test24_BerthaBeauty",NA,NA
+"Seal.Number","15","test24_BerthaBeauty",NA,NA
+"Sex","F","test24_BerthaBeauty",NA,NA
+"Version","V2","test24_BerthaBeauty",NA,NA
+"Age","(1,2]","test24_BerthaBeauty",NA,NA
+"Age.Estimate","1.8 years old","test24_BerthaBeauty",NA,NA
+"Seal.ID","WN428","test24_BerthaBeauty",NA,NA
+"Pressed.Start.Logger","10/08/2020 11:58:48","test24_BerthaBeauty",2020-10-08 11:58:48,2020-10-08 11:58:48
+"Logger.Start","10/08/2020 11:59:00","test24_BerthaBeauty",2020-10-08 11:59:00,2020-10-08 11:59:00
+"Start.for.EDF.Files","10/08/2020 11:58:58.960","test24_BerthaBeauty",2020-10-08 11:58:58,2020-10-08 11:58:58
+"Duration_ON_ANIMAL_h","115.86","test24_BerthaBeauty",NA,NA
+"ON.ANIMAL","10/09/2020 13:44:19","test24_BerthaBeauty",2020-10-09 13:44:19,2020-10-09 13:44:19
+"OFF.ANIMAL","10/14/2020 09:35:40","test24_BerthaBeauty",2020-10-14 09:35:40,2020-10-14 09:35:40
+"Capture_ANO_InitialStick","10/09/2020 10:21:25","test24_BerthaBeauty",2020-10-09 10:21:25,2020-10-09 10:21:25
+"Capture_ANO_LastDose","10/09/2020 10:34:25","test24_BerthaBeauty",2020-10-09 10:34:25,2020-10-09 10:34:25
+"Capture_ANO_Cortisol","8.306","test24_BerthaBeauty",NA,NA
+"Capture_ANO_cv","3.07","test24_BerthaBeauty",NA,NA
+"Attachment_InitialStick","10/09/2020 12:41:02","test24_BerthaBeauty",2020-10-09 12:41:02,2020-10-09 12:41:02
+"Attachment_LastDose","10/09/2020 14:11:30","test24_BerthaBeauty",2020-10-09 14:11:30,2020-10-09 14:11:30
+"Attachment_Cortisol","35.964","test24_BerthaBeauty",NA,NA
+"Attachment_cv","1.41","test24_BerthaBeauty",NA,NA
+"Removal_InitialStick","10/14/2020 09:17:30","test24_BerthaBeauty",2020-10-14 09:17:30,2020-10-14 09:17:30
+"Removal_LastDose","10/14/2020 09:39:00","test24_BerthaBeauty",2020-10-14 09:39:00,2020-10-14 09:39:00
+"Removal_Cortisol","35.128","test24_BerthaBeauty",NA,NA
+"Removal_cv","1.01","test24_BerthaBeauty",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","10/14/2020 09:35:50","test24_BerthaBeauty",2020-10-14 09:35:50,2020-10-14 09:35:50
+"Electrodes.unplugged.from.logger_Video","10/14/2020 09:35:54","test24_BerthaBeauty",2020-10-14 09:35:54,2020-10-14 09:35:54
+"Logger.Stop","10/14/2020 09:58:00","test24_BerthaBeauty",2020-10-14 09:58:00,2020-10-14 09:58:00
+"Actual.Start.Time_CATS.toolbox","10/08/2020 11:58:58.960","test24_BerthaBeauty",2020-10-08 11:58:58,2020-10-08 11:58:58
+"Logger.Used","L1","test24_BerthaBeauty",NA,NA
+"SD.Card.Used","1","test24_BerthaBeauty",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test24_BerthaBeauty",NA,NA
+"Restarts.Present","Yes","test24_BerthaBeauty",NA,NA
+"Number.of.Restarts","2","test24_BerthaBeauty",NA,NA
+"X.factor.per.restart","0","test24_BerthaBeauty",NA,NA
+"First.Restart.Seconds.Elapsed","195405.168","test24_BerthaBeauty",NA,NA
+"Last.Restart.Seconds.Elapsed","470248.436","test24_BerthaBeauty",NA,NA
+"First.Restart.Time","10/10/2020 18:15:45.168","test24_BerthaBeauty",2020-10-10 18:15:45,2020-10-10 18:15:45
+"Last.Restart.Time","10/13/2020 22:36:28.436","test24_BerthaBeauty",2020-10-13 22:36:28,2020-10-13 22:36:28
+"Device.Failure","No","test24_BerthaBeauty",NA,NA
+"Mass.with.cage_kg","277","test24_BerthaBeauty",NA,NA
+"Mass.cage_kg","81","test24_BerthaBeauty",NA,NA
+"Mass.animal._kg","196","test24_BerthaBeauty",NA,NA
+"Flipper.Tag.1","WN428","test24_BerthaBeauty",NA,NA
+"Position","R-iu-So","test24_BerthaBeauty",NA,NA
+"Flipper.Tag.2","GH588","test24_BerthaBeauty",NA,NA
+"Position.1","L-ou-So","test24_BerthaBeauty",NA,NA
+"Mark","H588 {R,L}","test24_BerthaBeauty",NA,NA
+"Mark.Position","R, L","test24_BerthaBeauty",NA,NA
+"Birth.date","~ Jan 2019","test24_BerthaBeauty",NA,NA
+"Wean.date","~ March 2019","test24_BerthaBeauty",NA,NA
+"Tagged.date","03/01/2019 00:00:00","test24_BerthaBeauty",2019-03-01 00:00:00,2019-03-01 00:00:00
+"Wean.weight_kg","?","test24_BerthaBeauty",NA,NA
+"Weaner.ID","not recorded","test24_BerthaBeauty",NA,NA
+"Wean.Standard.Length","?","test24_BerthaBeauty",NA,NA
+"Wean.Ax.Girth","?","test24_BerthaBeauty",NA,NA
+"Animal.ID","51213","test24_BerthaBeauty",NA,NA
+"Deployment.Resight.ID","353048 (capture)","test24_BerthaBeauty",NA,NA
+"Deploy.ID","NESE0006LOML","test24_BerthaBeauty",NA,NA
+"Seal.ID.1","WN428","test24_BerthaBeauty",NA,NA
+"TOPP.ID","2020048","test24_BerthaBeauty",NA,NA
+"Deploy.Latitude","36.948644","test24_BerthaBeauty",NA,NA
+"Deploy.Longitude","-122.065416","test24_BerthaBeauty",NA,NA
+"Initial.sedation.location","BBN","test24_BerthaBeauty",NA,NA
+"Blood","Yes - red tubes on all procedures and purple tube in refrigerator","test24_BerthaBeauty",NA,NA
+"Hematocrit","52 / 52 / 52 / 51","test24_BerthaBeauty",NA,NA
+"Standard.Length","206","test24_BerthaBeauty",NA,NA
+"Curved.Length","216","test24_BerthaBeauty",NA,NA
+"Ax.Girth","147","test24_BerthaBeauty",NA,NA
+"Whisker","N","test24_BerthaBeauty",NA,NA
+"Fur","N","test24_BerthaBeauty",NA,NA
+"Blubber","N","test24_BerthaBeauty",NA,NA
+"Ultrasound.skull.depth_cm","1.96","test24_BerthaBeauty",NA,NA
+"Instruments","Yes - Neurologger & AEP Recording","test24_BerthaBeauty",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test24_BerthaBeauty",NA,NA
+"First.Calibration.Event.Start","10/08/2020 13:00:00","test24_BerthaBeauty",2020-10-08 13:00:00,2020-10-08 13:00:00
+"First.Calibration.Event.End","10/08/2020 13:00:10","test24_BerthaBeauty",2020-10-08 13:00:10,2020-10-08 13:00:10
+"Expected.Duration","00:00:10.000","test24_BerthaBeauty",NA,NA
+"Logger.Event.Time.Start_TYPE","10/08/2020 13:00:00.972","test24_BerthaBeauty",2020-10-08 13:00:00,2020-10-08 13:00:00
+"Logger.Event.Time.End_TYPE","10/08/2020 13:00:11.780","test24_BerthaBeauty",2020-10-08 13:00:11,2020-10-08 13:00:11
+"Actual.Duration","00:00:10.808","test24_BerthaBeauty",NA,NA
+"Event2_type","Pick up logger at 9:44:02 on Wyze Cam = 4 seconds later than the actual time 9:43:58","test24_BerthaBeauty",NA,NA
+"Last.Calibration.Event.2.Start","10/14/2020 09:43:58","test24_BerthaBeauty",2020-10-14 09:43:58,2020-10-14 09:43:58
+"Last.Calibration.Event.2.End","10/14/2020 09:44:25","test24_BerthaBeauty",2020-10-14 09:44:25,2020-10-14 09:44:25
+"Logger.Event.Time.Start_TYPE.1","10/14/2020 09:43:49.696","test24_BerthaBeauty",2020-10-14 09:43:49,2020-10-14 09:43:49
+"Logger.Event.Time.End_TYPE.1","10/14/2020 09:44:09.600","test24_BerthaBeauty",2020-10-14 09:44:09,2020-10-14 09:44:09
+"Actual.Duration.1","00:00:19.904","test24_BerthaBeauty",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","00:00:09.276","test24_BerthaBeauty",NA,NA
+"Event3_type","Walking into lab with logger","test24_BerthaBeauty",NA,NA
+"Additional.Sync.Event.Start","10/09/2020 14:33:00","test24_BerthaBeauty",2020-10-09 14:33:00,2020-10-09 14:33:00
+"Additional.Sync.Event.End","10/09/2020 14:33:10","test24_BerthaBeauty",2020-10-09 14:33:10,2020-10-09 14:33:10
+"Time.of.water.entry","10/11/2020 12:23:10","test24_BerthaBeauty",2020-10-11 12:23:10,2020-10-11 12:23:10
+"Recording.Duration_s","511107.128","test24_BerthaBeauty",NA,NA
+"Recording.Duration_days","5.915591759","test24_BerthaBeauty",NA,NA
+"Recording.Duration_based.on.start.stop","5.915972222","test24_BerthaBeauty",NA,NA
+"Extra.Sedation","No","test24_BerthaBeauty",NA,NA
+"Reason","But did do an adjustment to superglue strap down while animal was sleeping","test24_BerthaBeauty",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test24_BerthaBeauty",NA,NA
+"Pickup.Crew","Rachel Holser, Logan Pallin, Ryan Jones, Daniel Lozano, and Patrick Robinson.","test24_BerthaBeauty",NA,NA
+"Attachment.Crew","Rachel Holser, Logan Pallin, and Daniel Lozano.","test24_BerthaBeauty",NA,NA
+"Release.Crew","Rachel Holser, Logan Pallin, and Daniel Lozano.","test24_BerthaBeauty",NA,NA
+"Animal.Comment","This animal was tagged as a weanling in March 2019 down in Piedras Blancas and was brought to LML as part of JKB Sleep Study from Oct 9 to Oct 14. TOPPID 2020048.","test24_BerthaBeauty",NA,NA
+"Post.study.Sighting.with.Patches.Date","10/16/2020","test24_BerthaBeauty",NA,NA
+"Post.study.Sighting.with.Patches.Comments","Lots of glue, very pissed off seal, watch out for it.","test24_BerthaBeauty",NA,NA
+"Begin.Calm.in.Water.for.ICA","10/11/2020 19:54:52","test24_BerthaBeauty",2020-10-11 19:54:52,2020-10-11 19:54:52
+"End.Calm.in.Water.for.ICA","10/11/2020 20:04:22","test24_BerthaBeauty",2020-10-11 20:04:22,2020-10-11 20:04:22
+"Duration.for.ICA","00:09:31","test24_BerthaBeauty",NA,NA
+"Best.EOG.EMG.EEG","3,4,7,8","test24_BerthaBeauty",NA,NA
+"ICA.Decomposition.Quality","OK","test24_BerthaBeauty",NA,NA
+"ICA.Component.Maximal.Brain","8","test24_BerthaBeauty",NA,NA
+"ICA.Component.Maximal.Heart","3","test24_BerthaBeauty",NA,NA
+"Pruned.with.ICA.Components","1,3,4,7","test24_BerthaBeauty",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test24_BerthaBeauty",NA,NA
+"Attachment.Orientation","upside down","test24_BerthaBeauty",NA,NA
+"Time.for.orientation","10/09/2020 14:10:37","test24_BerthaBeauty",2020-10-09 14:10:37,2020-10-09 14:10:37
+"AccX.during.attachment","-0.06641343","test24_BerthaBeauty",NA,NA
+"AccY.during.attachment","-0.034742869","test24_BerthaBeauty",NA,NA
+"AccZ.during.attachment","1.0103","test24_BerthaBeauty",NA,NA
+"Data.Comments.from.Alexei","Test12 files.
+Test24 Matlab files modified. I.e. without unnecessary intermediate variables.
+Updated Neurologger3Converter&Visualizer","test24_BerthaBeauty",NA,NA
+"Recording.ID","CAPTIVE_2yr-juvenile","test25_ComaCourtney",NA,NA
+"Test.Number","25","test25_ComaCourtney",NA,NA
+"Deployment","6","test25_ComaCourtney",NA,NA
+"Seal.Number","16","test25_ComaCourtney",NA,NA
+"Sex","F","test25_ComaCourtney",NA,NA
+"Version","V2","test25_ComaCourtney",NA,NA
+"Age","(1,2]","test25_ComaCourtney",NA,NA
+"Age.Estimate","1.8 years old","test25_ComaCourtney",NA,NA
+"Seal.ID","WN159","test25_ComaCourtney",NA,NA
+"Pressed.Start.Logger","10/16/2020 14:45:48","test25_ComaCourtney",2020-10-16 14:45:48,2020-10-16 14:45:48
+"Logger.Start","10/16/2020 14:46:00","test25_ComaCourtney",2020-10-16 14:46:00,2020-10-16 14:46:00
+"Start.for.EDF.Files","10/16/2020 14:45:58.640","test25_ComaCourtney",2020-10-16 14:45:58,2020-10-16 14:45:58
+"Duration_ON_ANIMAL_h","69.61","test25_ComaCourtney",NA,NA
+"ON.ANIMAL","10/17/2020 17:22:32","test25_ComaCourtney",2020-10-17 17:22:32,2020-10-17 17:22:32
+"Capture_ANO_InitialStick","10/17/2020 13:51:28","test25_ComaCourtney",2020-10-17 13:51:28,2020-10-17 13:51:28
+"Capture_ANO_LastDose","10/17/2020 14:10:50","test25_ComaCourtney",2020-10-17 14:10:50,2020-10-17 14:10:50
+"Capture_ANO_Cortisol","11.525","test25_ComaCourtney",NA,NA
+"Capture_ANO_cv","2.52","test25_ComaCourtney",NA,NA
+"Attachment_InitialStick","10/17/2020 16:05:00","test25_ComaCourtney",2020-10-17 16:05:00,2020-10-17 16:05:00
+"Attachment_LastDose","10/17/2020 17:22:10","test25_ComaCourtney",2020-10-17 17:22:10,2020-10-17 17:22:10
+"Attachment_Cortisol","46.712","test25_ComaCourtney",NA,NA
+"Attachment_cv","1.57","test25_ComaCourtney",NA,NA
+"Adjustment_InitialStick","10/19/2020 17:22:05","test25_ComaCourtney",2020-10-19 17:22:05,2020-10-19 17:22:05
+"Adjustment_LastDose","10/19/2020 17:40:15","test25_ComaCourtney",2020-10-19 17:40:15,2020-10-19 17:40:15
+"Adjustment_Cortisol","28.156","test25_ComaCourtney",NA,NA
+"Adjustment_cv","0.91","test25_ComaCourtney",NA,NA
+"Removal_InitialStick","10/22/2020 15:11:03","test25_ComaCourtney",2020-10-22 15:11:03,2020-10-22 15:11:03
+"Removal_LastDose","10/22/2020 15:54:00","test25_ComaCourtney",2020-10-22 15:54:00,2020-10-22 15:54:00
+"Removal_Cortisol","26.755","test25_ComaCourtney",NA,NA
+"Removal_cv","2.39","test25_ComaCourtney",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","10/22/2020 15:26:36","test25_ComaCourtney",2020-10-22 15:26:36,2020-10-22 15:26:36
+"Logger.Stop","not recorded - off","test25_ComaCourtney",NA,NA
+"Actual.Start.Time_CATS.toolbox","10/16/2020 14:45:58.640","test25_ComaCourtney",2020-10-16 14:45:58,2020-10-16 14:45:58
+"Logger.Used","L1","test25_ComaCourtney",NA,NA
+"SD.Card.Used","1","test25_ComaCourtney",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test25_ComaCourtney",NA,NA
+"Restarts.Present","Yes","test25_ComaCourtney",NA,NA
+"Number.of.Restarts","9","test25_ComaCourtney",NA,NA
+"X.factor.per.restart","0","test25_ComaCourtney",NA,NA
+"First.Restart.Seconds.Elapsed","104321.056","test25_ComaCourtney",NA,NA
+"Last.Restart.Seconds.Elapsed","333504.765","test25_ComaCourtney",NA,NA
+"First.Restart.Time","10/17/2020 19:44:41.056","test25_ComaCourtney",2020-10-17 19:44:41,2020-10-17 19:44:41
+"Last.Restart.Time","10/20/2020 11:24:24.765","test25_ComaCourtney",2020-10-20 11:24:24,2020-10-20 11:24:24
+"Device.Failure","Yes","test25_ComaCourtney",NA,NA
+"Mass.with.cage_kg","258","test25_ComaCourtney",NA,NA
+"Mass.cage_kg","81","test25_ComaCourtney",NA,NA
+"Mass.animal._kg","177","test25_ComaCourtney",NA,NA
+"Flipper.Tag.1","WN159","test25_ComaCourtney",NA,NA
+"Position","L-iu-so","test25_ComaCourtney",NA,NA
+"Flipper.Tag.2","WN160","test25_ComaCourtney",NA,NA
+"Position.1","R-iu-so","test25_ComaCourtney",NA,NA
+"Mark","WN160","test25_ComaCourtney",NA,NA
+"Mark.Position","L,shoulders (smudged in cage)","test25_ComaCourtney",NA,NA
+"Birth.date","~Jan 2019","test25_ComaCourtney",NA,NA
+"Wean.date","between 2/21/2019 and 2/23/2019","test25_ComaCourtney",NA,NA
+"Tagged.date","02/23/2019 00:00:00","test25_ComaCourtney",2019-02-23 00:00:00,2019-02-23 00:00:00
+"Wean.weight_kg","159.3 kg","test25_ComaCourtney",NA,NA
+"Weaner.ID","not recorded","test25_ComaCourtney",NA,NA
+"Wean.Standard.Length","unknown","test25_ComaCourtney",NA,NA
+"Wean.Ax.Girth","unknown","test25_ComaCourtney",NA,NA
+"Animal.ID","51173","test25_ComaCourtney",NA,NA
+"Deployment.Resight.ID","353185","test25_ComaCourtney",NA,NA
+"Recovery.Resight.ID","353232","test25_ComaCourtney",NA,NA
+"Deploy.ID","NESE0007LOML","test25_ComaCourtney",NA,NA
+"Seal.ID.1","WN159","test25_ComaCourtney",NA,NA
+"TOPP.ID","2020049","test25_ComaCourtney",NA,NA
+"Deploy.Latitude","36.948644","test25_ComaCourtney",NA,NA
+"Deploy.Longitude","-122.065416","test25_ComaCourtney",NA,NA
+"Initial.sedation.location","BBN","test25_ComaCourtney",NA,NA
+"Blood","Y - red tops at all procedures","test25_ComaCourtney",NA,NA
+"Hematocrit","63 / 63 / 63 / 63","test25_ComaCourtney",NA,NA
+"Standard.Length","206","test25_ComaCourtney",NA,NA
+"Curved.Length","220","test25_ComaCourtney",NA,NA
+"Ax.Girth","129","test25_ComaCourtney",NA,NA
+"Whisker","N","test25_ComaCourtney",NA,NA
+"Fur","N","test25_ComaCourtney",NA,NA
+"Blubber","N","test25_ComaCourtney",NA,NA
+"Ultrasound.skull.depth_cm","1.85","test25_ComaCourtney",NA,NA
+"Instruments","Yes- Neurologger & AEP & NIRS upon removal","test25_ComaCourtney",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test25_ComaCourtney",NA,NA
+"First.Calibration.Event.Start","10/16/2020 15:00:00","test25_ComaCourtney",2020-10-16 15:00:00,2020-10-16 15:00:00
+"First.Calibration.Event.End","10/16/2020 15:00:10","test25_ComaCourtney",2020-10-16 15:00:10,2020-10-16 15:00:10
+"Expected.Duration","00:00:10.000","test25_ComaCourtney",NA,NA
+"Logger.Event.Time.Start_TYPE","10/16/2020 15:00:01.370","test25_ComaCourtney",2020-10-16 15:00:01,2020-10-16 15:00:01
+"Logger.Event.Time.End_TYPE","10/16/2020 15:00:12.350","test25_ComaCourtney",2020-10-16 15:00:12,2020-10-16 15:00:12
+"Actual.Duration","00:00:10.980","test25_ComaCourtney",NA,NA
+"Last.Calibration.Event.2.Start","not recorded - off","test25_ComaCourtney",NA,NA
+"Last.Calibration.Event.2.End","not recorded - off","test25_ComaCourtney",NA,NA
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 16:48:00.690","test25_ComaCourtney",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 16:48:10.630","test25_ComaCourtney",NA,NA
+"Actual.Duration.1","00:00:09.940","test25_ComaCourtney",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","#VALUE!","test25_ComaCourtney",NA,NA
+"Time.of.water.entry","10/19/2020 18:36:40","test25_ComaCourtney",2020-10-19 18:36:40,2020-10-19 18:36:40
+"Recording.Duration_s","346393.656","test25_ComaCourtney",NA,NA
+"Recording.Duration_days","4.009185833","test25_ComaCourtney",NA,NA
+"Extra.Sedation","Yes","test25_ComaCourtney",NA,NA
+"Reason","Needed to glue down side of headcap again","test25_ComaCourtney",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test25_ComaCourtney",NA,NA
+"Pickup.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano","test25_ComaCourtney",NA,NA
+"Attachment.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones","test25_ComaCourtney",NA,NA
+"Release.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones","test25_ComaCourtney",NA,NA
+"Animal.Comment","Animal was brought to LML as part of JKB Sleep Study from Oct 16 to Oct 22. TOPPID 2020049.","test25_ComaCourtney",NA,NA
+"Begin.Calm.in.Water.for.ICA","10/19/2020 22:46:18","test25_ComaCourtney",2020-10-19 22:46:18,2020-10-19 22:46:18
+"End.Calm.in.Water.for.ICA","10/19/2020 22:56:03","test25_ComaCourtney",2020-10-19 22:56:03,2020-10-19 22:56:03
+"Duration.for.ICA","00:09:45","test25_ComaCourtney",NA,NA
+"Best.EOG.EMG.EEG","3,4,7,8","test25_ComaCourtney",NA,NA
+"ICA.Decomposition.Quality","OK","test25_ComaCourtney",NA,NA
+"ICA.Component.Maximal.Brain","8","test25_ComaCourtney",NA,NA
+"ICA.Component.Maximal.Heart","3","test25_ComaCourtney",NA,NA
+"Pruned.with.ICA.Components","1,3,4,7","test25_ComaCourtney",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test25_ComaCourtney",NA,NA
+"Attachment.Orientation","upside down","test25_ComaCourtney",NA,NA
+"Time.for.orientation","10/17/2020 17:39:56","test25_ComaCourtney",2020-10-17 17:39:56,2020-10-17 17:39:56
+"AccX.during.attachment","0.109207","test25_ComaCourtney",NA,NA
+"AccY.during.attachment","-0.03581","test25_ComaCourtney",NA,NA
+"AccZ.during.attachment","1.0123","test25_ComaCourtney",NA,NA
+"Recording.ID","CAPTIVE_1yr-juvenile","test26_DreamyDenise",NA,NA
+"Test.Number","26","test26_DreamyDenise",NA,NA
+"Deployment","7","test26_DreamyDenise",NA,NA
+"Seal.Number","13","test26_DreamyDenise",NA,NA
+"Sex","F","test26_DreamyDenise",NA,NA
+"Version","V2","test26_DreamyDenise",NA,NA
+"Age","(0,1]","test26_DreamyDenise",NA,NA
+"Age.Estimate","~0.8 years old","test26_DreamyDenise",NA,NA
+"Seal.ID","H525","test26_DreamyDenise",NA,NA
+"Pressed.Start.Logger","10/23/2020 15:59:48","test26_DreamyDenise",2020-10-23 15:59:48,2020-10-23 15:59:48
+"Logger.Start","10/23/2020 16:00:00","test26_DreamyDenise",2020-10-23 16:00:00,2020-10-23 16:00:00
+"Start.for.EDF.Files","10/23/2020 15:59:58.440","test26_DreamyDenise",2020-10-23 15:59:58,2020-10-23 15:59:58
+"Duration_ON_ANIMAL_h","79.71","test26_DreamyDenise",NA,NA
+"ON.ANIMAL","10/24/2020 13:03:24","test26_DreamyDenise",2020-10-24 13:03:24,2020-10-24 13:03:24
+"Capture_ANO_InitialStick","10/24/2020 10:05:41","test26_DreamyDenise",2020-10-24 10:05:41,2020-10-24 10:05:41
+"Capture_ANO_LastDose","10/24/2020 10:05:41","test26_DreamyDenise",2020-10-24 10:05:41,2020-10-24 10:05:41
+"Capture_ANO_Cortisol","12.334","test26_DreamyDenise",NA,NA
+"Capture_ANO_cv","4.17","test26_DreamyDenise",NA,NA
+"Attachment_InitialStick","10/24/2020 11:56:00","test26_DreamyDenise",2020-10-24 11:56:00,2020-10-24 11:56:00
+"Attachment_LastDose","10/24/2020 13:24:34","test26_DreamyDenise",2020-10-24 13:24:34,2020-10-24 13:24:34
+"Attachment_Cortisol","27.421","test26_DreamyDenise",NA,NA
+"Attachment_cv","1.53","test26_DreamyDenise",NA,NA
+"Removal_InitialStick","10/29/2020 10:06:40","test26_DreamyDenise",2020-10-29 10:06:40,2020-10-29 10:06:40
+"Removal_LastDose","10/29/2020 10:38:00","test26_DreamyDenise",2020-10-29 10:38:00,2020-10-29 10:38:00
+"Removal_Cortisol","13.434","test26_DreamyDenise",NA,NA
+"Removal_cv","1.91","test26_DreamyDenise",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","10/29/2020 10:19:31","test26_DreamyDenise",2020-10-29 10:19:31,2020-10-29 10:19:31
+"Logger.Stop","not recorded - off","test26_DreamyDenise",NA,NA
+"Actual.Start.Time_CATS.toolbox","10/23/2020 15:59:58.440","test26_DreamyDenise",2020-10-23 15:59:58,2020-10-23 15:59:58
+"Logger.Used","L1","test26_DreamyDenise",NA,NA
+"SD.Card.Used","1","test26_DreamyDenise",NA,NA
+"Configuration.Notes","no real time clock, channel configuration ""normal""","test26_DreamyDenise",NA,NA
+"Restarts.Present","Yes","test26_DreamyDenise",NA,NA
+"Number.of.Restarts","4","test26_DreamyDenise",NA,NA
+"X.factor.per.restart","0","test26_DreamyDenise",NA,NA
+"First.Restart.Seconds.Elapsed","232027.068","test26_DreamyDenise",NA,NA
+"Last.Restart.Seconds.Elapsed","348630.1281","test26_DreamyDenise",NA,NA
+"First.Restart.Time","10/26/2020 08:27:07.068","test26_DreamyDenise",2020-10-26 08:27:07,2020-10-26 08:27:07
+"Last.Restart.Time","10/27/2020 16:50:30.128","test26_DreamyDenise",2020-10-27 16:50:30,2020-10-27 16:50:30
+"Device.Failure","Yes","test26_DreamyDenise",NA,NA
+"Mass.with.cage_kg","229","test26_DreamyDenise",NA,NA
+"Mass.cage_kg","81","test26_DreamyDenise",NA,NA
+"Mass.animal._kg","148","test26_DreamyDenise",NA,NA
+"Mass.animal.post.study_kg","137","test26_DreamyDenise",NA,NA
+"Flipper.Tag.1","GH525 - ADDED","test26_DreamyDenise",NA,NA
+"Position","L-iu-So","test26_DreamyDenise",NA,NA
+"Flipper.Tag.2","GH527 - ADDED","test26_DreamyDenise",NA,NA
+"Position.1","R-il-So","test26_DreamyDenise",NA,NA
+"Mark","No Mark","test26_DreamyDenise",NA,NA
+"Mark.Position","No Mark","test26_DreamyDenise",NA,NA
+"Birth.date","probably in 2020","test26_DreamyDenise",NA,NA
+"Wean.date","unknown","test26_DreamyDenise",NA,NA
+"Tagged.date","unknown","test26_DreamyDenise",NA,NA
+"Wean.weight_kg","unknown","test26_DreamyDenise",NA,NA
+"Weaner.ID","not recorded","test26_DreamyDenise",NA,NA
+"Wean.Standard.Length","unknown","test26_DreamyDenise",NA,NA
+"Wean.Ax.Girth","unknown","test26_DreamyDenise",NA,NA
+"Animal.ID","52333","test26_DreamyDenise",NA,NA
+"Deployment.Resight.ID","353421","test26_DreamyDenise",NA,NA
+"Recovery.Resight.ID","353422","test26_DreamyDenise",NA,NA
+"Deploy.ID","NESE0008LOML","test26_DreamyDenise",NA,NA
+"Seal.ID.1","H525","test26_DreamyDenise",NA,NA
+"TOPP.ID","2020050","test26_DreamyDenise",NA,NA
+"Deploy.Latitude","36.948644","test26_DreamyDenise",NA,NA
+"Deploy.Longitude","-122.065416","test26_DreamyDenise",NA,NA
+"Initial.sedation.location","BBN","test26_DreamyDenise",NA,NA
+"Blood","Y - red tops at all procedures","test26_DreamyDenise",NA,NA
+"Hematocrit","50 / 51 / 52 / 53","test26_DreamyDenise",NA,NA
+"Standard.Length","165","test26_DreamyDenise",NA,NA
+"Curved.Length","175","test26_DreamyDenise",NA,NA
+"Ax.Girth","139","test26_DreamyDenise",NA,NA
+"Whisker","N","test26_DreamyDenise",NA,NA
+"Fur","N","test26_DreamyDenise",NA,NA
+"Blubber","N","test26_DreamyDenise",NA,NA
+"Ultrasound.skull.depth_cm","1.90","test26_DreamyDenise",NA,NA
+"Instruments","Yes- Neurologger & AEP & NIRS upon attachment and removal","test26_DreamyDenise",NA,NA
+"First.Calibration.Event.Type","Calibration Shake","test26_DreamyDenise",NA,NA
+"First.Calibration.Event.Start","10/23/2020 16:11:00","test26_DreamyDenise",2020-10-23 16:11:00,2020-10-23 16:11:00
+"First.Calibration.Event.End","10/23/2020 16:11:10","test26_DreamyDenise",2020-10-23 16:11:10,2020-10-23 16:11:10
+"Expected.Duration","00:00:10.000","test26_DreamyDenise",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 16:48:00.690","test26_DreamyDenise",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 16:48:10.630","test26_DreamyDenise",NA,NA
+"Actual.Duration","00:00:09.940","test26_DreamyDenise",NA,NA
+"Last.Calibration.Event.2.Start","not recorded - off","test26_DreamyDenise",NA,NA
+"Last.Calibration.Event.2.End","not recorded - off","test26_DreamyDenise",NA,NA
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 16:48:00.690","test26_DreamyDenise",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 16:48:10.630","test26_DreamyDenise",NA,NA
+"Actual.Duration.1","00:00:09.940","test26_DreamyDenise",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","#VALUE!","test26_DreamyDenise",NA,NA
+"Time.of.water.entry","10/26/2020 11:51:08","test26_DreamyDenise",2020-10-26 11:51:08,2020-10-26 11:51:08
+"Recording.Duration_s","362771.948","test26_DreamyDenise",NA,NA
+"Recording.Duration_days","4.198749398","test26_DreamyDenise",NA,NA
+"Extra.Sedation","No","test26_DreamyDenise",NA,NA
+"Reason","But did do an adjustment to tack down headcap with superglue while the animal was sleeping","test26_DreamyDenise",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","#VALUE!","test26_DreamyDenise",NA,NA
+"Pickup.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano","test26_DreamyDenise",NA,NA
+"Attachment.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Daniel Lozano","test26_DreamyDenise",NA,NA
+"Release.Crew","Rachel Holser, Logan Pallin, Arina Favilla, Ryan Jones, Patrick Robinson","test26_DreamyDenise",NA,NA
+"Animal.Comment","Animal was brought to LML as part of JKB Sleep Study from Oct 24 to Oct 29. TOPPID 2020050.","test26_DreamyDenise",NA,NA
+"Begin.Calm.in.Water.for.ICA","10/26/2020 18:10:02","test26_DreamyDenise",2020-10-26 18:10:02,2020-10-26 18:10:02
+"End.Calm.in.Water.for.ICA","10/26/2020 18:23:45","test26_DreamyDenise",2020-10-26 18:23:45,2020-10-26 18:23:45
+"Duration.for.ICA","00:13:43","test26_DreamyDenise",NA,NA
+"Best.EOG.EMG.EEG","2,5,7,8","test26_DreamyDenise",NA,NA
+"ICA.Decomposition.Quality","Excellent","test26_DreamyDenise",NA,NA
+"ICA.Component.Maximal.Brain","7","test26_DreamyDenise",NA,NA
+"ICA.Component.Maximal.Heart","2","test26_DreamyDenise",NA,NA
+"Pruned.with.ICA.Components","1,2,3,4","test26_DreamyDenise",NA,NA
+"Channel.Configuration","[14 15 16 19 20 17 21 25 29]","test26_DreamyDenise",NA,NA
+"Attachment.Orientation","upside down","test26_DreamyDenise",NA,NA
+"Time.for.orientation","10/24/2020 13:46:00","test26_DreamyDenise",2020-10-24 13:46:00,2020-10-24 13:46:00
+"AccX.during.attachment","-0.00152","test26_DreamyDenise",NA,NA
+"AccY.during.attachment","-0.06516","test26_DreamyDenise",NA,NA
+"AccZ.during.attachment","1.0185","test26_DreamyDenise",NA,NA
+"Recording.ID","WILD_2mo-weanling","test30_ExhaustedEllie",NA,NA
+"Test.Number","30","test30_ExhaustedEllie",NA,NA
+"Deployment","8","test30_ExhaustedEllie",NA,NA
+"Seal.Number","18","test30_ExhaustedEllie",NA,NA
+"Sex","F","test30_ExhaustedEllie",NA,NA
+"Version","V3","test30_ExhaustedEllie",NA,NA
+"Age","(0,1]","test30_ExhaustedEllie",NA,NA
+"Age.Estimate","~2 months old","test30_ExhaustedEllie",NA,NA
+"Seal.ID","H870","test30_ExhaustedEllie",NA,NA
+"Pressed.Start.Logger","03/26/2021 15:50:00","test30_ExhaustedEllie",2021-03-26 15:50:00,2021-03-26 15:50:00
+"Logger.Start","03/26/2021 15:51:00","test30_ExhaustedEllie",2021-03-26 15:51:00,2021-03-26 15:51:00
+"Start.from.Real.Time.Clock","03/25/2021 15:51:03","test30_ExhaustedEllie",2021-03-25 15:51:03,2021-03-25 15:51:03
+"Start.for.EDF.Files","03/26/2021 15:51:03","test30_ExhaustedEllie",2021-03-26 15:51:03,2021-03-26 15:51:03
+"Duration_ON_ANIMAL_h","120.9","test30_ExhaustedEllie",NA,NA
+"ON.ANIMAL","03/27/2021 11:47:30","test30_ExhaustedEllie",2021-03-27 11:47:30,2021-03-27 11:47:30
+"OFF.ANIMAL","04/01/2021 12:41:46","test30_ExhaustedEllie",2021-04-01 12:41:46,2021-04-01 12:41:46
+"Attachment_InitialStick","03/27/2021 09:20:28","test30_ExhaustedEllie",2021-03-27 09:20:28,2021-03-27 09:20:28
+"Attachment_LastDose","03/27/2021 11:10:47","test30_ExhaustedEllie",2021-03-27 11:10:47,2021-03-27 11:10:47
+"Attachment_Cortisol","16.283","test30_ExhaustedEllie",NA,NA
+"Attachment_cv","2.22","test30_ExhaustedEllie",NA,NA
+"Removal_InitialStick","04/01/2021 12:26:13","test30_ExhaustedEllie",2021-04-01 12:26:13,2021-04-01 12:26:13
+"Removal_LastDose","04/01/2021 13:00:00","test30_ExhaustedEllie",2021-04-01 13:00:00,2021-04-01 13:00:00
+"Removal_Cortisol","7.222","test30_ExhaustedEllie",NA,NA
+"Removal_cv","1.41","test30_ExhaustedEllie",NA,NA
+"Logger.Stop","04/01/2021 15:44:30","test30_ExhaustedEllie",2021-04-01 15:44:30,2021-04-01 15:44:30
+"Actual.Start.Time_CATS.toolbox","03/26/2021 15:51:03","test30_ExhaustedEllie",2021-03-26 15:51:03,2021-03-26 15:51:03
+"Logger.Used","L1","test30_ExhaustedEllie",NA,NA
+"SD.Card.Used","3","test30_ExhaustedEllie",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test30_ExhaustedEllie",NA,NA
+"Restarts.Present","Yes","test30_ExhaustedEllie",NA,NA
+"Number.of.Restarts","1","test30_ExhaustedEllie",NA,NA
+"X.factor.per.restart","0","test30_ExhaustedEllie",NA,NA
+"First.Restart.Seconds.Elapsed","517740.86","test30_ExhaustedEllie",NA,NA
+"Last.Restart.Seconds.Elapsed","517740.86","test30_ExhaustedEllie",NA,NA
+"First.Restart.Time","04/01/2021 15:40:00.860","test30_ExhaustedEllie",2021-04-01 15:40:00,2021-04-01 15:40:00
+"Last.Restart.Time","04/01/2021 15:40:00.860","test30_ExhaustedEllie",2021-04-01 15:40:00,2021-04-01 15:40:00
+"Device.Failure","No","test30_ExhaustedEllie",NA,NA
+"Mass.with.cage_kg","133","test30_ExhaustedEllie",NA,NA
+"Mass.cage_kg","17","test30_ExhaustedEllie",NA,NA
+"Mass.animal._kg","116","test30_ExhaustedEllie",NA,NA
+"Mass.animal.post.study_kg","0","test30_ExhaustedEllie",NA,NA
+"Flipper.Tag.1","GH870","test30_ExhaustedEllie",NA,NA
+"Position","L-ou-Si","test30_ExhaustedEllie",NA,NA
+"Flipper.Tag.2","GK102","test30_ExhaustedEllie",NA,NA
+"Position.1","R-il-Si","test30_ExhaustedEllie",NA,NA
+"Mark","210X","test30_ExhaustedEllie",NA,NA
+"Mark.Position","R","test30_ExhaustedEllie",NA,NA
+"Birth.date","~1/15/2021","test30_ExhaustedEllie",NA,NA
+"Wean.date","02/15/2021 00:00:00","test30_ExhaustedEllie",2021-02-15 00:00:00,2021-02-15 00:00:00
+"Tagged.date","02/20/2021 00:00:00","test30_ExhaustedEllie",2021-02-20 00:00:00,2021-02-20 00:00:00
+"Wean.weight_kg","141.2","test30_ExhaustedEllie",NA,NA
+"Weaner.ID","367998","test30_ExhaustedEllie",NA,NA
+"Wean.Standard.Length","149","test30_ExhaustedEllie",NA,NA
+"Wean.Ax.Girth","135","test30_ExhaustedEllie",NA,NA
+"Animal.ID","53631","test30_ExhaustedEllie",NA,NA
+"Deployment.Resight.ID","369160","test30_ExhaustedEllie",NA,NA
+"Recovery.Resight.ID","375880","test30_ExhaustedEllie",NA,NA
+"Deploy.ID","NESE0865ANNU","test30_ExhaustedEllie",NA,NA
+"Seal.ID.1","H870","test30_ExhaustedEllie",NA,NA
+"TOPP.ID","2021041","test30_ExhaustedEllie",NA,NA
+"Deploy.Time","04/04/2021 23:00:00","test30_ExhaustedEllie",2021-04-04 23:00:00,2021-04-04 23:00:00
+"Deploy.Latitude","36.95309","test30_ExhaustedEllie",NA,NA
+"Deploy.Longitude","-122.064361","test30_ExhaustedEllie",NA,NA
+"Initial.sedation.location","TSC","test30_ExhaustedEllie",NA,NA
+"Attachment.Time..GMT.","03/27/2021 16:20:28","test30_ExhaustedEllie",2021-03-27 16:20:28,2021-03-27 16:20:28
+"Attachment.Latitude","37.114632","test30_ExhaustedEllie",NA,NA
+"Attachment.Longitude","-122.325439","test30_ExhaustedEllie",NA,NA
+"Recovery.procedure.location","TSC","test30_ExhaustedEllie",NA,NA
+"Recovery.Time..GMT.","04/01/2021 19:26:13","test30_ExhaustedEllie",2021-04-01 19:26:13,2021-04-01 19:26:13
+"Recovery.Latitude","37.115727","test30_ExhaustedEllie",NA,NA
+"Recovery.Longitude","-122.322446","test30_ExhaustedEllie",NA,NA
+"Blood","Yes - 2 red, 2 purple","test30_ExhaustedEllie",NA,NA
+"Serum.banked.for.CORT","Yes","test30_ExhaustedEllie",NA,NA
+"Hematocrit","50 / 49 / 50 / 50","test30_ExhaustedEllie",NA,NA
+"Standard.Length","157","test30_ExhaustedEllie",NA,NA
+"Curved.Length","170","test30_ExhaustedEllie",NA,NA
+"Ax.Girth","130","test30_ExhaustedEllie",NA,NA
+"Whisker","N","test30_ExhaustedEllie",NA,NA
+"Fur","N","test30_ExhaustedEllie",NA,NA
+"Blubber","N","test30_ExhaustedEllie",NA,NA
+"Ultrasound.skull.depth_cm","2.20","test30_ExhaustedEllie",NA,NA
+"Instruments","Somniseal V3, MK10, VHF V2","test30_ExhaustedEllie",NA,NA
+"MK10.ID","07A0349","test30_ExhaustedEllie",NA,NA
+"Time.Deploy.VHF_magnet.off","03/27/2021 07:15:39","test30_ExhaustedEllie",2021-03-27 07:15:39,2021-03-27 07:15:39
+"test.VHF.pings.on","Yes","test30_ExhaustedEllie",NA,NA
+"Time.Deploy.MK10_ON.magnet","03/26/2021 14:08:00","test30_ExhaustedEllie",2021-03-26 14:08:00,2021-03-26 14:08:00
+"Time.Deploy.MK10.in.GMT","03/26/2021 21:08:00","test30_ExhaustedEllie",2021-03-26 21:08:00,2021-03-26 21:08:00
+"OFF.DAYS.in.When.to.Transmit","OFF 3/27,28,29,30,31; ON 4/1","test30_ExhaustedEllie",NA,NA
+"Program.stop.transmit.MK10","03/26/2021 17:00:00","test30_ExhaustedEllie",2021-03-26 17:00:00,2021-03-26 17:00:00
+"Program.stop.MK10_GMT","03/27/2021 00:00:00","test30_ExhaustedEllie",2021-03-27 00:00:00,2021-03-27 00:00:00
+"Program.start.transmit.MK10","03/31/2021 17:00:00","test30_ExhaustedEllie",2021-03-31 17:00:00,2021-03-31 17:00:00
+"Program.start.MK10_GMT","04/01/2021 00:00:00","test30_ExhaustedEllie",2021-04-01 00:00:00,2021-04-01 00:00:00
+"test.transmit.working","Yes","test30_ExhaustedEllie",NA,NA
+"last.transmit.time.recovery","03/22/2021 23:14:03","test30_ExhaustedEllie",2021-03-22 23:14:03,2021-03-22 23:14:03
+"First.Calibration.Event.Type","Shakes","test30_ExhaustedEllie",NA,NA
+"First.Calibration.Event.Start","03/27/2021 09:43:00","test30_ExhaustedEllie",2021-03-27 09:43:00,2021-03-27 09:43:00
+"First.Calibration.Event.End","03/27/2021 09:43:10","test30_ExhaustedEllie",2021-03-27 09:43:10,2021-03-27 09:43:10
+"Expected.Duration","01/00/1900 00:00:10","test30_ExhaustedEllie",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Actual.Duration","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Event2_type","Shakes","test30_ExhaustedEllie",NA,NA
+"Last.Calibration.Event.2.Start","04/01/2021 15:20:00","test30_ExhaustedEllie",2021-04-01 15:20:00,2021-04-01 15:20:00
+"Last.Calibration.Event.2.End","04/01/2021 15:20:10","test30_ExhaustedEllie",2021-04-01 15:20:10,2021-04-01 15:20:10
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:10","test30_ExhaustedEllie",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Type.in.OFFSET","01/05/1900 05:37:00","test30_ExhaustedEllie",1900-01-05 05:37:00,1900-01-05 05:37:00
+"Event3_type","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Time.of.water.entry","01/00/1900 00:00:00","test30_ExhaustedEllie",NA,NA
+"Recording.Duration_s","517957.272","test30_ExhaustedEllie",NA,NA
+"Recording.Duration_days","5.994875833","test30_ExhaustedEllie",NA,NA
+"Recording.Duration_based.on.start.stop","5.995486111","test30_ExhaustedEllie",NA,NA
+"Extra.Sedation","No","test30_ExhaustedEllie",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","5.128993056","test30_ExhaustedEllie",NA,NA
+"Pickup.Crew","0","test30_ExhaustedEllie",NA,NA
+"Attachment.Crew","R. Holser, L. Keehan, J. Kendall-Bar, A. Favilla, R. Jones, D. Costa","test30_ExhaustedEllie",NA,NA
+"Release.Crew","R. Holser, L. Keehan, and J. Kendall-Bar","test30_ExhaustedEllie",NA,NA
+"Animal.Comment","Resight comment for recovery: Seal was instrumented on March 27 as part of sleep study by J.Kendall-Bar TOPPID 2021047. Instrument was recovered today, animal looks healthy and in good body condition. Made sure to check on headcap region and eyes regarding previous concerns and all seems normal.","test30_ExhaustedEllie",NA,NA
+"Begin.Calm.in.Water.for.ICA","03/30/2021 13:14:10","test30_ExhaustedEllie",2021-03-30 13:14:10,2021-03-30 13:14:10
+"End.Calm.in.Water.for.ICA","03/30/2021 13:19:38","test30_ExhaustedEllie",2021-03-30 13:19:38,2021-03-30 13:19:38
+"Duration.for.ICA","00:05:28","test30_ExhaustedEllie",NA,NA
+"Best.EOG.EMG.EEG","3,5,7,8","test30_ExhaustedEllie",NA,NA
+"ICA.Decomposition.Quality","OK","test30_ExhaustedEllie",NA,NA
+"ICA.Component.Maximal.Brain","8","test30_ExhaustedEllie",NA,NA
+"ICA.Component.Maximal.Heart","1","test30_ExhaustedEllie",NA,NA
+"Pruned.with.ICA.Components","1,3,7","test30_ExhaustedEllie",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test30_ExhaustedEllie",NA,NA
+"Attachment.Orientation","on its side","test30_ExhaustedEllie",NA,NA
+"Time.for.orientation","03/27/2021 11:18:03","test30_ExhaustedEllie",2021-03-27 11:18:03,2021-03-27 11:18:03
+"AccX.during.attachment","-0.034789096","test30_ExhaustedEllie",NA,NA
+"AccY.during.attachment","-0.966507315","test30_ExhaustedEllie",NA,NA
+"AccZ.during.attachment","-0.2335","test30_ExhaustedEllie",NA,NA
+"Data.Comments.from.Alexei","Start time was inserted automatically from RTC.
+Test30 has no any restarts.","test30_ExhaustedEllie",NA,NA
+"Recording.ID","WILD_2yr-juvenile","test31_FatiguedFiona",NA,NA
+"Test.Number","31","test31_FatiguedFiona",NA,NA
+"Deployment","9","test31_FatiguedFiona",NA,NA
+"Seal.Number","20","test31_FatiguedFiona",NA,NA
+"Sex","F","test31_FatiguedFiona",NA,NA
+"Version","V3","test31_FatiguedFiona",NA,NA
+"Age","(2,3]","test31_FatiguedFiona",NA,NA
+"Age.Estimate","probable 2.2 year old","test31_FatiguedFiona",NA,NA
+"Seal.ID","H645","test31_FatiguedFiona",NA,NA
+"Pressed.Start.Logger","04/04/2021 14:30:00","test31_FatiguedFiona",2021-04-04 14:30:00,2021-04-04 14:30:00
+"Logger.Start","04/04/2021 14:31:00","test31_FatiguedFiona",2021-04-04 14:31:00,2021-04-04 14:31:00
+"Start.from.Real.Time.Clock","04/03/2021 14:31:02","test31_FatiguedFiona",2021-04-03 14:31:02,2021-04-03 14:31:02
+"Start.for.EDF.Files","04/04/2021 14:31:02","test31_FatiguedFiona",2021-04-04 14:31:02,2021-04-04 14:31:02
+"Duration_ON_ANIMAL_h","98.81","test31_FatiguedFiona",NA,NA
+"ON.ANIMAL","04/05/2021 09:34:48","test31_FatiguedFiona",2021-04-05 09:34:48,2021-04-05 09:34:48
+"OFF.ANIMAL","04/09/2021 12:23:24","test31_FatiguedFiona",2021-04-09 12:23:24,2021-04-09 12:23:24
+"Attachment_InitialStick","04/05/2021 07:54:00","test31_FatiguedFiona",2021-04-05 07:54:00,2021-04-05 07:54:00
+"Attachment_LastDose","04/05/2021 09:46:30","test31_FatiguedFiona",2021-04-05 09:46:30,2021-04-05 09:46:30
+"Attachment_Cortisol","7.852","test31_FatiguedFiona",NA,NA
+"Attachment_cv","3.73","test31_FatiguedFiona",NA,NA
+"Removal_InitialStick","04/09/2021 11:57:47","test31_FatiguedFiona",2021-04-09 11:57:47,2021-04-09 11:57:47
+"Removal_LastDose","04/09/2021 12:23:43","test31_FatiguedFiona",2021-04-09 12:23:43,2021-04-09 12:23:43
+"Removal_Cortisol","13.259","test31_FatiguedFiona",NA,NA
+"Removal_cv","1.86","test31_FatiguedFiona",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Electrodes.unplugged.from.logger_Video","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Logger.Stop","04/09/2021 15:54:00","test31_FatiguedFiona",2021-04-09 15:54:00,2021-04-09 15:54:00
+"Actual.Start.Time_CATS.toolbox","04/04/2021 14:31:02","test31_FatiguedFiona",2021-04-04 14:31:02,2021-04-04 14:31:02
+"Actual.Start_TYPE","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Logger.Used","L1","test31_FatiguedFiona",NA,NA
+"SD.Card.Used","3","test31_FatiguedFiona",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test31_FatiguedFiona",NA,NA
+"Restarts.Present","Yes","test31_FatiguedFiona",NA,NA
+"Number.of.Restarts","4","test31_FatiguedFiona",NA,NA
+"X.factor.per.restart","0","test31_FatiguedFiona",NA,NA
+"First.Restart.Seconds.Elapsed","0","test31_FatiguedFiona",NA,NA
+"Last.Restart.Seconds.Elapsed","0","test31_FatiguedFiona",NA,NA
+"First.Restart.Time","04/04/2021 14:31:00.000","test31_FatiguedFiona",2021-04-04 14:31:00,2021-04-04 14:31:00
+"Last.Restart.Time","04/04/2021 14:31:00.000","test31_FatiguedFiona",2021-04-04 14:31:00,2021-04-04 14:31:00
+"Device.Failure","No","test31_FatiguedFiona",NA,NA
+"Mass.with.cage_kg","173","test31_FatiguedFiona",NA,NA
+"Mass.cage_kg","19","test31_FatiguedFiona",NA,NA
+"Mass.animal._kg","154","test31_FatiguedFiona",NA,NA
+"Mass.animal.post.study_kg","0","test31_FatiguedFiona",NA,NA
+"Flipper.Tag.1","GH645","test31_FatiguedFiona",NA,NA
+"Position","L-iu-So","test31_FatiguedFiona",NA,NA
+"Flipper.Tag.2","GH657","test31_FatiguedFiona",NA,NA
+"Position.1","R-ou-Si","test31_FatiguedFiona",NA,NA
+"Mark","0","test31_FatiguedFiona",NA,NA
+"Mark.Position","0","test31_FatiguedFiona",NA,NA
+"Animal.ID","53815","test31_FatiguedFiona",NA,NA
+"Deployment.Resight.ID","371454","test31_FatiguedFiona",NA,NA
+"Recovery.Resight.ID","371457","test31_FatiguedFiona",NA,NA
+"Deploy.ID","NESE0866ANNU","test31_FatiguedFiona",NA,NA
+"Seal.ID.1","H645","test31_FatiguedFiona",NA,NA
+"TOPP.ID","2021042","test31_FatiguedFiona",NA,NA
+"Deploy.Time","04/04/2021 23:00:00","test31_FatiguedFiona",2021-04-04 23:00:00,2021-04-04 23:00:00
+"Deploy.Latitude","36.95309","test31_FatiguedFiona",NA,NA
+"Deploy.Longitude","-122.064361","test31_FatiguedFiona",NA,NA
+"Initial.sedation.location","TSC","test31_FatiguedFiona",NA,NA
+"Attachment.Time..GMT.","04/05/2021 14:54:00","test31_FatiguedFiona",2021-04-05 14:54:00,2021-04-05 14:54:00
+"Attachment.Latitude","37.114632","test31_FatiguedFiona",NA,NA
+"Attachment.Longitude","-122.325439","test31_FatiguedFiona",NA,NA
+"Recovery.procedure.location","Pole1","test31_FatiguedFiona",NA,NA
+"Recovery.Time..GMT.","04/09/2021 19:13:00","test31_FatiguedFiona",2021-04-09 19:13:00,2021-04-09 19:13:00
+"Recovery.Latitude","37.115727","test31_FatiguedFiona",NA,NA
+"Recovery.Longitude","-122.322446","test31_FatiguedFiona",NA,NA
+"Blood","Yes","test31_FatiguedFiona",NA,NA
+"Serum.banked.for.CORT","Yes","test31_FatiguedFiona",NA,NA
+"Hematocrit","48 / 48 / 47 / 48","test31_FatiguedFiona",NA,NA
+"Standard.Length","177","test31_FatiguedFiona",NA,NA
+"Curved.Length","187","test31_FatiguedFiona",NA,NA
+"Ax.Girth","134","test31_FatiguedFiona",NA,NA
+"Whisker","N","test31_FatiguedFiona",NA,NA
+"Fur","N","test31_FatiguedFiona",NA,NA
+"Blubber","N","test31_FatiguedFiona",NA,NA
+"Ultrasound.skull.depth_cm","2.06","test31_FatiguedFiona",NA,NA
+"Instruments","Somniseal V3, MK10, VHF V2","test31_FatiguedFiona",NA,NA
+"MK10.ID","07A0349","test31_FatiguedFiona",NA,NA
+"Time.Deploy.VHF_magnet.off","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"test.VHF.pings.on","Yes","test31_FatiguedFiona",NA,NA
+"Time.Deploy.MK10_ON.magnet","04/04/2021 16:21:20","test31_FatiguedFiona",2021-04-04 16:21:20,2021-04-04 16:21:20
+"Time.Deploy.MK10.in.GMT","04/04/2021 23:21:20","test31_FatiguedFiona",2021-04-04 23:21:20,2021-04-04 23:21:20
+"OFF.DAYS.in.When.to.Transmit","OFF 4/5,6,7,8; ON 4/9","test31_FatiguedFiona",NA,NA
+"Program.stop.transmit.MK10","04/04/2021 17:00:00","test31_FatiguedFiona",2021-04-04 17:00:00,2021-04-04 17:00:00
+"Program.stop.MK10_GMT","04/05/2021 00:00:00","test31_FatiguedFiona",2021-04-05 00:00:00,2021-04-05 00:00:00
+"Program.start.transmit.MK10","04/08/2021 17:00:00","test31_FatiguedFiona",2021-04-08 17:00:00,2021-04-08 17:00:00
+"Program.start.MK10_GMT","04/09/2021 00:00:00","test31_FatiguedFiona",2021-04-09 00:00:00,2021-04-09 00:00:00
+"test.transmit.working","Yes","test31_FatiguedFiona",NA,NA
+"last.test.transmit.time","44277.96809","test31_FatiguedFiona",NA,NA
+"last.transmit.time.recovery","03/22/2021 23:14:03","test31_FatiguedFiona",2021-03-22 23:14:03,2021-03-22 23:14:03
+"First.Calibration.Event.Type","Shakes","test31_FatiguedFiona",NA,NA
+"First.Calibration.Event.Start","04/04/2021 18:38:00","test31_FatiguedFiona",2021-04-04 18:38:00,2021-04-04 18:38:00
+"First.Calibration.Event.End","04/04/2021 18:38:10","test31_FatiguedFiona",2021-04-04 18:38:10,2021-04-04 18:38:10
+"Expected.Duration","01/00/1900 00:00:10","test31_FatiguedFiona",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Actual.Duration","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Event2_type","Shakes","test31_FatiguedFiona",NA,NA
+"Last.Calibration.Event.2.Start","04/09/2021 15:28:00","test31_FatiguedFiona",2021-04-09 15:28:00,2021-04-09 15:28:00
+"Last.Calibration.Event.2.End","04/09/2021 15:28:10","test31_FatiguedFiona",2021-04-09 15:28:10,2021-04-09 15:28:10
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:10","test31_FatiguedFiona",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Type.in.OFFSET","01/04/1900 20:50:00","test31_FatiguedFiona",1900-01-04 20:50:00,1900-01-04 20:50:00
+"Event3_type","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Time.of.water.entry","01/00/1900 00:00:00","test31_FatiguedFiona",NA,NA
+"Recording.Duration_s","436980.544","test31_FatiguedFiona",NA,NA
+"Recording.Duration_days","5.057645185","test31_FatiguedFiona",NA,NA
+"Recording.Duration_based.on.start.stop","5.057638889","test31_FatiguedFiona",NA,NA
+"Extra.Sedation","No","test31_FatiguedFiona",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","4.179861111","test31_FatiguedFiona",NA,NA
+"Pickup.Crew","0","test31_FatiguedFiona",NA,NA
+"Attachment.Crew","R. Holser, L. Keehan, A. Favilla, A. Lankow","test31_FatiguedFiona",NA,NA
+"Release.Crew","R. Holser, L. Keehan, A. Favilla, A. Lankow","test31_FatiguedFiona",NA,NA
+"Animal.Comment","Animal went to sea before returning to Pole 1","test31_FatiguedFiona",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/05/2021 16:35:34","test31_FatiguedFiona",2021-04-05 16:35:34,2021-04-05 16:35:34
+"End.Calm.in.Water.for.ICA","04/05/2021 16:45:42","test31_FatiguedFiona",2021-04-05 16:45:42,2021-04-05 16:45:42
+"Duration.for.ICA","00:10:08","test31_FatiguedFiona",NA,NA
+"Best.EOG.EMG.EEG","2,4,7,8","test31_FatiguedFiona",NA,NA
+"ICA.Decomposition.Quality","Good","test31_FatiguedFiona",NA,NA
+"ICA.Component.Maximal.Brain","8","test31_FatiguedFiona",NA,NA
+"ICA.Component.Maximal.Heart","7","test31_FatiguedFiona",NA,NA
+"Pruned.with.ICA.Components","1,2,4,7,9","test31_FatiguedFiona",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test31_FatiguedFiona",NA,NA
+"Attachment.Orientation","on its side","test31_FatiguedFiona",NA,NA
+"Time.for.orientation","04/05/2021 09:35:04","test31_FatiguedFiona",2021-04-05 09:35:04,2021-04-05 09:35:04
+"AccX.during.attachment","0.055528","test31_FatiguedFiona",NA,NA
+"AccY.during.attachment","-0.99528","test31_FatiguedFiona",NA,NA
+"AccZ.during.attachment","0.1332","test31_FatiguedFiona",NA,NA
+"Data.Comments.from.Alexei","Test31 has 1 restart 220 seconds before logger shutdown. hese last 220s record most
+probably can be neglected and I did not do any time correction of the last very short
+piece. Internal logger crystal has precision 15 ppm at 25+/-3 degrees C, and 25 pmm at other temperatures.","test31_FatiguedFiona",NA,NA
+"Recording.ID","WILD_2mo-weanling","test32_GoodnightGerty",NA,NA
+"Test.Number","32","test32_GoodnightGerty",NA,NA
+"Deployment","10","test32_GoodnightGerty",NA,NA
+"Seal.Number","19","test32_GoodnightGerty",NA,NA
+"Sex","F","test32_GoodnightGerty",NA,NA
+"Version","V3","test32_GoodnightGerty",NA,NA
+"Age","(0,1]","test32_GoodnightGerty",NA,NA
+"Age.Estimate","~2 months old","test32_GoodnightGerty",NA,NA
+"Seal.ID","H644","test32_GoodnightGerty",NA,NA
+"Pressed.Start.Logger","04/10/2021 19:11:00","test32_GoodnightGerty",2021-04-10 19:11:00,2021-04-10 19:11:00
+"Logger.Start","04/10/2021 19:12:00","test32_GoodnightGerty",2021-04-10 19:12:00,2021-04-10 19:12:00
+"Start.from.Real.Time.Clock","04/09/2021 19:12:01","test32_GoodnightGerty",2021-04-09 19:12:01,2021-04-09 19:12:01
+"Start.for.EDF.Files","04/10/2021 19:12:01","test32_GoodnightGerty",2021-04-10 19:12:01,2021-04-10 19:12:01
+"Duration_ON_ANIMAL_h","120.04","test32_GoodnightGerty",NA,NA
+"ON.ANIMAL","04/11/2021 10:47:40","test32_GoodnightGerty",2021-04-11 10:47:40,2021-04-11 10:47:40
+"OFF.ANIMAL","04/16/2021 10:50:09","test32_GoodnightGerty",2021-04-16 10:50:09,2021-04-16 10:50:09
+"Attachment_InitialStick","04/11/2021 09:32:22","test32_GoodnightGerty",2021-04-11 09:32:22,2021-04-11 09:32:22
+"Attachment_LastDose","04/11/2021 11:01:56","test32_GoodnightGerty",2021-04-11 11:01:56,2021-04-11 11:01:56
+"Attachment_Cortisol","4.540","test32_GoodnightGerty",NA,NA
+"Attachment_cv","1.11","test32_GoodnightGerty",NA,NA
+"Removal_InitialStick","04/16/2021 10:20:29","test32_GoodnightGerty",2021-04-16 10:20:29,2021-04-16 10:20:29
+"Removal_LastDose","04/16/2021 10:49:20","test32_GoodnightGerty",2021-04-16 10:49:20,2021-04-16 10:49:20
+"Removal_Cortisol","10.965","test32_GoodnightGerty",NA,NA
+"Removal_cv","4.21","test32_GoodnightGerty",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Electrodes.unplugged.from.logger_Video","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Logger.Stop","04/16/2021 14:21:00","test32_GoodnightGerty",2021-04-16 14:21:00,2021-04-16 14:21:00
+"Actual.Start.Time_CATS.toolbox","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Actual.Start_TYPE","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Logger.Used","L1","test32_GoodnightGerty",NA,NA
+"SD.Card.Used","3","test32_GoodnightGerty",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test32_GoodnightGerty",NA,NA
+"Restarts.Present","0","test32_GoodnightGerty",NA,NA
+"Number.of.Restarts","0","test32_GoodnightGerty",NA,NA
+"X.factor.per.restart","0","test32_GoodnightGerty",NA,NA
+"First.Restart.Seconds.Elapsed","0","test32_GoodnightGerty",NA,NA
+"Last.Restart.Seconds.Elapsed","0","test32_GoodnightGerty",NA,NA
+"First.Restart.Time","04/10/2021 19:12:00.000","test32_GoodnightGerty",2021-04-10 19:12:00,2021-04-10 19:12:00
+"Last.Restart.Time","04/10/2021 19:12:00.000","test32_GoodnightGerty",2021-04-10 19:12:00,2021-04-10 19:12:00
+"Device.Failure","No","test32_GoodnightGerty",NA,NA
+"Mass.with.cage_kg","137","test32_GoodnightGerty",NA,NA
+"Mass.cage_kg","19","test32_GoodnightGerty",NA,NA
+"Mass.animal._kg","118","test32_GoodnightGerty",NA,NA
+"Mass.animal.post.study_kg","0","test32_GoodnightGerty",NA,NA
+"Flipper.Tag.1","GH644","test32_GoodnightGerty",NA,NA
+"Position","L-ou-So","test32_GoodnightGerty",NA,NA
+"Flipper.Tag.2","GH651","test32_GoodnightGerty",NA,NA
+"Position.1","R-iu-So","test32_GoodnightGerty",NA,NA
+"Mark","GH644","test32_GoodnightGerty",NA,NA
+"Mark.Position","R,L","test32_GoodnightGerty",NA,NA
+"Birth.date","0","test32_GoodnightGerty",NA,NA
+"Wean.weight_kg","0","test32_GoodnightGerty",NA,NA
+"Weaner.ID","0","test32_GoodnightGerty",NA,NA
+"Wean.Standard.Length","0","test32_GoodnightGerty",NA,NA
+"Wean.Ax.Girth","0","test32_GoodnightGerty",NA,NA
+"Animal.ID","53832","test32_GoodnightGerty",NA,NA
+"Deployment.Resight.ID","372774","test32_GoodnightGerty",NA,NA
+"Recovery.Resight.ID","372778","test32_GoodnightGerty",NA,NA
+"Deploy.ID","NESE0867ANNU","test32_GoodnightGerty",NA,NA
+"Seal.ID.1","H644","test32_GoodnightGerty",NA,NA
+"TOPP.ID","2021043","test32_GoodnightGerty",NA,NA
+"Deploy.Time","04/10/2021 23:58:00","test32_GoodnightGerty",2021-04-10 23:58:00,2021-04-10 23:58:00
+"Deploy.Latitude","36.95309","test32_GoodnightGerty",NA,NA
+"Deploy.Longitude","-122.064361","test32_GoodnightGerty",NA,NA
+"Initial.sedation.location","MBBL","test32_GoodnightGerty",NA,NA
+"Attachment.Time..GMT.","04/11/2021 16:32:22","test32_GoodnightGerty",2021-04-11 16:32:22,2021-04-11 16:32:22
+"Attachment.Latitude","37.116205","test32_GoodnightGerty",NA,NA
+"Attachment.Longitude","-122.330761","test32_GoodnightGerty",NA,NA
+"Recovery.procedure.location","BMB","test32_GoodnightGerty",NA,NA
+"Recovery.Time..GMT.","04/16/2021 17:20:29","test32_GoodnightGerty",2021-04-16 17:20:29,2021-04-16 17:20:29
+"Recovery.Latitude","37.114258","test32_GoodnightGerty",NA,NA
+"Recovery.Longitude","-122.329383","test32_GoodnightGerty",NA,NA
+"Blood","Yes","test32_GoodnightGerty",NA,NA
+"Serum.banked.for.CORT","Yes","test32_GoodnightGerty",NA,NA
+"Hematocrit","48 / 48 / 47 / 47","test32_GoodnightGerty",NA,NA
+"Standard.Length","151","test32_GoodnightGerty",NA,NA
+"Curved.Length","167","test32_GoodnightGerty",NA,NA
+"Ax.Girth","129","test32_GoodnightGerty",NA,NA
+"Whisker","N","test32_GoodnightGerty",NA,NA
+"Fur","N","test32_GoodnightGerty",NA,NA
+"Blubber","N","test32_GoodnightGerty",NA,NA
+"Ultrasound.skull.depth_cm","2.33","test32_GoodnightGerty",NA,NA
+"Instruments","Somniseal V3, MK10, VHF V2","test32_GoodnightGerty",NA,NA
+"MK10.ID","07A0349","test32_GoodnightGerty",NA,NA
+"Time.Deploy.VHF_magnet.off","04/10/2021 07:00:00","test32_GoodnightGerty",2021-04-10 07:00:00,2021-04-10 07:00:00
+"test.VHF.pings.on","Yes","test32_GoodnightGerty",NA,NA
+"Time.Deploy.MK10_ON.magnet","04/10/2021 16:58:00","test32_GoodnightGerty",2021-04-10 16:58:00,2021-04-10 16:58:00
+"Time.Deploy.MK10.in.GMT","04/10/2021 23:58:00","test32_GoodnightGerty",2021-04-10 23:58:00,2021-04-10 23:58:00
+"OFF.DAYS.in.When.to.Transmit","OFF 4/11,12,13,14,15; ON 4/16","test32_GoodnightGerty",NA,NA
+"Program.stop.transmit.MK10","04/10/2021 17:00:00","test32_GoodnightGerty",2021-04-10 17:00:00,2021-04-10 17:00:00
+"Program.stop.MK10_GMT","04/11/2021 00:00:00","test32_GoodnightGerty",2021-04-11 00:00:00,2021-04-11 00:00:00
+"Program.start.transmit.MK10","04/15/2021 17:00:00","test32_GoodnightGerty",2021-04-15 17:00:00,2021-04-15 17:00:00
+"Program.start.MK10_GMT","04/16/2021 00:00:00","test32_GoodnightGerty",2021-04-16 00:00:00,2021-04-16 00:00:00
+"test.transmit.working","Yes","test32_GoodnightGerty",NA,NA
+"last.test.transmit.time","0","test32_GoodnightGerty",NA,NA
+"last.transmit.time.recovery","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"First.Calibration.Event.Type","Shakes","test32_GoodnightGerty",NA,NA
+"First.Calibration.Event.Start","04/11/2021 10:19:00","test32_GoodnightGerty",2021-04-11 10:19:00,2021-04-11 10:19:00
+"First.Calibration.Event.End","04/11/2021 10:19:10","test32_GoodnightGerty",2021-04-11 10:19:10,2021-04-11 10:19:10
+"Expected.Duration","01/00/1900 00:00:10","test32_GoodnightGerty",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Actual.Duration","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Event2_type","Shakes","test32_GoodnightGerty",NA,NA
+"Last.Calibration.Event.2.Start","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Last.Calibration.Event.2.End","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Type.in.OFFSET","###############################################################################################################################################################################################################################################################","test32_GoodnightGerty",NA,NA
+"Event3_type","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Time.of.water.entry","01/00/1900 00:00:00","test32_GoodnightGerty",NA,NA
+"Recording.Duration_s","0","test32_GoodnightGerty",NA,NA
+"Recording.Duration_days","0","test32_GoodnightGerty",NA,NA
+"Recording.Duration_based.on.start.stop","5.797916667","test32_GoodnightGerty",NA,NA
+"Extra.Sedation","0","test32_GoodnightGerty",NA,NA
+"Reason","0","test32_GoodnightGerty",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","5.033414352","test32_GoodnightGerty",NA,NA
+"Pickup.Crew","0","test32_GoodnightGerty",NA,NA
+"Attachment.Crew","J. Kendall-Bar, R. Holser, L. Keehan, A. Favilla, R. Beltran","test32_GoodnightGerty",NA,NA
+"Release.Crew","R. Holser, J. Kendall-Bar, A. Favilla, L. Keehan, A. Lankow","test32_GoodnightGerty",NA,NA
+"Animal.Comment","0","test32_GoodnightGerty",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/13/2021 09:23:40","test32_GoodnightGerty",2021-04-13 09:23:40,2021-04-13 09:23:40
+"End.Calm.in.Water.for.ICA","04/13/2021 09:43:49","test32_GoodnightGerty",2021-04-13 09:43:49,2021-04-13 09:43:49
+"Duration.for.ICA","00:20:09","test32_GoodnightGerty",NA,NA
+"Best.EOG.EMG.EEG","3,5,6,7","test32_GoodnightGerty",NA,NA
+"ICA.Decomposition.Quality","Good","test32_GoodnightGerty",NA,NA
+"ICA.Component.Maximal.Brain","6","test32_GoodnightGerty",NA,NA
+"ICA.Component.Maximal.Heart","1","test32_GoodnightGerty",NA,NA
+"Pruned.with.ICA.Components","1,3,5","test32_GoodnightGerty",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test32_GoodnightGerty",NA,NA
+"Attachment.Orientation","on its side","test32_GoodnightGerty",NA,NA
+"Time.for.orientation","04/11/2021 10:48:55","test32_GoodnightGerty",2021-04-11 10:48:55,2021-04-11 10:48:55
+"AccX.during.attachment","-0.1329","test32_GoodnightGerty",NA,NA
+"AccY.during.attachment","-0.93947","test32_GoodnightGerty",NA,NA
+"AccZ.during.attachment","-0.3001","test32_GoodnightGerty",NA,NA
+"Recording.ID","XLOC_2yr-juvenile","test33_HypoactiveHeidi",NA,NA
+"Test.Number","33","test33_HypoactiveHeidi",NA,NA
+"Deployment","11","test33_HypoactiveHeidi",NA,NA
+"Seal.Number","23","test33_HypoactiveHeidi",NA,NA
+"Sex","F","test33_HypoactiveHeidi",NA,NA
+"Version","V3","test33_HypoactiveHeidi",NA,NA
+"Age","(2,3]","test33_HypoactiveHeidi",NA,NA
+"Age.Estimate","~2.2 years old","test33_HypoactiveHeidi",NA,NA
+"Seal.ID","H935","test33_HypoactiveHeidi",NA,NA
+"Pressed.Start.Logger","04/17/2021 15:36:00","test33_HypoactiveHeidi",2021-04-17 15:36:00,2021-04-17 15:36:00
+"Logger.Start","04/17/2021 15:37:00","test33_HypoactiveHeidi",2021-04-17 15:37:00,2021-04-17 15:37:00
+"Start.from.Real.Time.Clock","04/16/2021 15:37:00","test33_HypoactiveHeidi",2021-04-16 15:37:00,2021-04-16 15:37:00
+"Start.for.EDF.Files","04/17/2021 15:37:00","test33_HypoactiveHeidi",2021-04-17 15:37:00,2021-04-17 15:37:00
+"Duration_ON_ANIMAL_h","114.42","test33_HypoactiveHeidi",NA,NA
+"ON.ANIMAL","04/20/2021 18:02:10","test33_HypoactiveHeidi",2021-04-20 18:02:10,2021-04-20 18:02:10
+"OFF.ANIMAL","04/25/2021 12:27:30","test33_HypoactiveHeidi",2021-04-25 12:27:30,2021-04-25 12:27:30
+"Attachment_InitialStick","04/20/2021 16:46:00","test33_HypoactiveHeidi",2021-04-20 16:46:00,2021-04-20 16:46:00
+"Attachment_LastDose","04/20/2021 18:20:30","test33_HypoactiveHeidi",2021-04-20 18:20:30,2021-04-20 18:20:30
+"Attachment_Cortisol","10.728","test33_HypoactiveHeidi",NA,NA
+"Attachment_cv","2.11","test33_HypoactiveHeidi",NA,NA
+"Removal_InitialStick","04/25/2021 12:42:44","test33_HypoactiveHeidi",2021-04-25 12:42:44,2021-04-25 12:42:44
+"Removal_LastDose","04/25/2021 12:30:04","test33_HypoactiveHeidi",2021-04-25 12:30:04,2021-04-25 12:30:04
+"Removal_Cortisol","4.347","test33_HypoactiveHeidi",NA,NA
+"Removal_cv","2.76","test33_HypoactiveHeidi",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Electrodes.unplugged.from.logger_Video","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Logger.Stop","04/25/2021 14:56:02","test33_HypoactiveHeidi",2021-04-25 14:56:02,2021-04-25 14:56:02
+"Actual.Start.Time_CATS.toolbox","04/17/2021 15:37:05","test33_HypoactiveHeidi",2021-04-17 15:37:05,2021-04-17 15:37:05
+"Actual.Start_TYPE","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Logger.Used","L1","test33_HypoactiveHeidi",NA,NA
+"SD.Card.Used","3","test33_HypoactiveHeidi",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test33_HypoactiveHeidi",NA,NA
+"Restarts.Present","0","test33_HypoactiveHeidi",NA,NA
+"Number.of.Restarts","0","test33_HypoactiveHeidi",NA,NA
+"X.factor.per.restart","0","test33_HypoactiveHeidi",NA,NA
+"First.Restart.Seconds.Elapsed","0","test33_HypoactiveHeidi",NA,NA
+"Last.Restart.Seconds.Elapsed","0","test33_HypoactiveHeidi",NA,NA
+"First.Restart.Time","04/17/2021 15:37:00.000","test33_HypoactiveHeidi",2021-04-17 15:37:00,2021-04-17 15:37:00
+"Last.Restart.Time","04/17/2021 15:37:00.000","test33_HypoactiveHeidi",2021-04-17 15:37:00,2021-04-17 15:37:00
+"Device.Failure","No","test33_HypoactiveHeidi",NA,NA
+"Mass.with.cage_kg","180","test33_HypoactiveHeidi",NA,NA
+"Mass.cage_kg","17","test33_HypoactiveHeidi",NA,NA
+"Mass.animal._kg","163","test33_HypoactiveHeidi",NA,NA
+"Mass.animal.post.study_kg","0","test33_HypoactiveHeidi",NA,NA
+"Flipper.Tag.1","GH935","test33_HypoactiveHeidi",NA,NA
+"Position","R-ou-Si","test33_HypoactiveHeidi",NA,NA
+"Flipper.Tag.2","GH936","test33_HypoactiveHeidi",NA,NA
+"Position.1","L-il-So","test33_HypoactiveHeidi",NA,NA
+"Mark","H935","test33_HypoactiveHeidi",NA,NA
+"Mark.Position","R,L","test33_HypoactiveHeidi",NA,NA
+"Animal.ID","53845","test33_HypoactiveHeidi",NA,NA
+"Deployment.Resight.ID","374516","test33_HypoactiveHeidi",NA,NA
+"Recovery.Resight.ID","374517","test33_HypoactiveHeidi",NA,NA
+"Deploy.ID","NESE0868ANNU","test33_HypoactiveHeidi",NA,NA
+"Seal.ID.1","H935","test33_HypoactiveHeidi",NA,NA
+"TOPP.ID","2021044","test33_HypoactiveHeidi",NA,NA
+"Deploy.Time","04/17/2021 23:45:00","test33_HypoactiveHeidi",2021-04-17 23:45:00,2021-04-17 23:45:00
+"Deploy.Latitude","36.95309","test33_HypoactiveHeidi",NA,NA
+"Deploy.Longitude","-122.064361","test33_HypoactiveHeidi",NA,NA
+"Initial.sedation.location","MBBU","test33_HypoactiveHeidi",NA,NA
+"Attachment.Time..GMT.","04/20/2021 23:46:00","test33_HypoactiveHeidi",2021-04-20 23:46:00,2021-04-20 23:46:00
+"Attachment.Latitude","37.116736","test33_HypoactiveHeidi",NA,NA
+"Attachment.Longitude","-122.330585","test33_HypoactiveHeidi",NA,NA
+"Recovery.procedure.location","MBBU","test33_HypoactiveHeidi",NA,NA
+"Recovery.Time..GMT.","04/25/2021 19:42:44","test33_HypoactiveHeidi",2021-04-25 19:42:44,2021-04-25 19:42:44
+"Recovery.Latitude","37.116456","test33_HypoactiveHeidi",NA,NA
+"Recovery.Longitude","-122.330869","test33_HypoactiveHeidi",NA,NA
+"Blood","Yes","test33_HypoactiveHeidi",NA,NA
+"Serum.banked.for.CORT","Yes","test33_HypoactiveHeidi",NA,NA
+"Hematocrit","49 / 47 / 53 / 48","test33_HypoactiveHeidi",NA,NA
+"Standard.Length","140","test33_HypoactiveHeidi",NA,NA
+"Curved.Length","192","test33_HypoactiveHeidi",NA,NA
+"Ax.Girth","140","test33_HypoactiveHeidi",NA,NA
+"Whisker","N","test33_HypoactiveHeidi",NA,NA
+"Fur","N","test33_HypoactiveHeidi",NA,NA
+"Blubber","N","test33_HypoactiveHeidi",NA,NA
+"Ultrasound.skull.depth_cm","2.08","test33_HypoactiveHeidi",NA,NA
+"Instruments","Somniseal V3, MK10, VHF V2","test33_HypoactiveHeidi",NA,NA
+"MK10.ID","07A0349","test33_HypoactiveHeidi",NA,NA
+"Time.Deploy.VHF_magnet.off","04/17/2021 16:55:00","test33_HypoactiveHeidi",2021-04-17 16:55:00,2021-04-17 16:55:00
+"test.VHF.pings.on","Yes","test33_HypoactiveHeidi",NA,NA
+"Time.Deploy.MK10_ON.magnet","04/17/2021 16:45:00","test33_HypoactiveHeidi",2021-04-17 16:45:00,2021-04-17 16:45:00
+"Time.Deploy.MK10.in.GMT","04/17/2021 23:45:00","test33_HypoactiveHeidi",2021-04-17 23:45:00,2021-04-17 23:45:00
+"OFF.DAYS.in.When.to.Transmit","ON ALL","test33_HypoactiveHeidi",NA,NA
+"Program.stop.transmit.MK10","04/10/2021 17:00:00","test33_HypoactiveHeidi",2021-04-10 17:00:00,2021-04-10 17:00:00
+"Program.stop.MK10_GMT","04/11/2021 00:00:00","test33_HypoactiveHeidi",2021-04-11 00:00:00,2021-04-11 00:00:00
+"Program.start.transmit.MK10","04/15/2021 17:00:00","test33_HypoactiveHeidi",2021-04-15 17:00:00,2021-04-15 17:00:00
+"Program.start.MK10_GMT","04/16/2021 00:00:00","test33_HypoactiveHeidi",2021-04-16 00:00:00,2021-04-16 00:00:00
+"test.transmit.working","Yes","test33_HypoactiveHeidi",NA,NA
+"last.test.transmit.time","0","test33_HypoactiveHeidi",NA,NA
+"last.transmit.time.recovery","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"First.Calibration.Event.Type","Shakes","test33_HypoactiveHeidi",NA,NA
+"First.Calibration.Event.Start","04/20/2021 16:49:00","test33_HypoactiveHeidi",2021-04-20 16:49:00,2021-04-20 16:49:00
+"First.Calibration.Event.End","04/20/2021 16:49:10","test33_HypoactiveHeidi",2021-04-20 16:49:10,2021-04-20 16:49:10
+"Expected.Duration","01/00/1900 00:00:10","test33_HypoactiveHeidi",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Actual.Duration","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Event2_type","Shakes","test33_HypoactiveHeidi",NA,NA
+"Last.Calibration.Event.2.Start","04/25/2021 14:42:00","test33_HypoactiveHeidi",2021-04-25 14:42:00,2021-04-25 14:42:00
+"Last.Calibration.Event.2.End","04/25/2021 14:42:10","test33_HypoactiveHeidi",2021-04-25 14:42:10,2021-04-25 14:42:10
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:10","test33_HypoactiveHeidi",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Type.in.OFFSET","01/04/1900 21:53:00","test33_HypoactiveHeidi",1900-01-04 21:53:00,1900-01-04 21:53:00
+"Event3_type","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Time.of.water.entry","01/00/1900 00:00:00","test33_HypoactiveHeidi",NA,NA
+"Recording.Duration_s","0","test33_HypoactiveHeidi",NA,NA
+"Recording.Duration_days","0","test33_HypoactiveHeidi",NA,NA
+"Recording.Duration_based.on.start.stop","7.971550926","test33_HypoactiveHeidi",NA,NA
+"Extra.Sedation","0","test33_HypoactiveHeidi",NA,NA
+"Reason","0","test33_HypoactiveHeidi",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","4.831064815","test33_HypoactiveHeidi",NA,NA
+"Pickup.Crew","0","test33_HypoactiveHeidi",NA,NA
+"Attachment.Crew","R. Holser, J. Kendall-Bar, L. Keehan, A. Favilla, A. Lankow, R. Jones","test33_HypoactiveHeidi",NA,NA
+"Release.Crew","R. Holser, J. Kendall-Bar, C. Kroeger","test33_HypoactiveHeidi",NA,NA
+"Animal.Comment","0","test33_HypoactiveHeidi",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/22/2021 16:57:08","test33_HypoactiveHeidi",2021-04-22 16:57:08,2021-04-22 16:57:08
+"End.Calm.in.Water.for.ICA","04/22/2021 17:08:30","test33_HypoactiveHeidi",2021-04-22 17:08:30,2021-04-22 17:08:30
+"Duration.for.ICA","00:11:22","test33_HypoactiveHeidi",NA,NA
+"Best.EOG.EMG.EEG","3,5,7,8","test33_HypoactiveHeidi",NA,NA
+"ICA.Decomposition.Quality","Good","test33_HypoactiveHeidi",NA,NA
+"ICA.Component.Maximal.Brain","9","test33_HypoactiveHeidi",NA,NA
+"ICA.Component.Maximal.Heart","8","test33_HypoactiveHeidi",NA,NA
+"Pruned.with.ICA.Components","1,2,3,4,8","test33_HypoactiveHeidi",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test33_HypoactiveHeidi",NA,NA
+"Attachment.Orientation","on its side","test33_HypoactiveHeidi",NA,NA
+"Time.for.orientation","04/20/2021 18:02:09","test33_HypoactiveHeidi",2021-04-20 18:02:09,2021-04-20 18:02:09
+"AccX.during.attachment","0.006329","test33_HypoactiveHeidi",NA,NA
+"AccY.during.attachment","-1.00368","test33_HypoactiveHeidi",NA,NA
+"AccZ.during.attachment","-0.0485","test33_HypoactiveHeidi",NA,NA
+"Galumph.Start","04/20/2021 20:59:05","test33_HypoactiveHeidi",2021-04-20 20:59:05,2021-04-20 20:59:05
+"Galumph.STOP","04/20/2021 20:59:15","test33_HypoactiveHeidi",2021-04-20 20:59:15,2021-04-20 20:59:15
+"Recording.ID","WILD_1yr-juvenile","test34_IndolentIzzy",NA,NA
+"Test.Number","34","test34_IndolentIzzy",NA,NA
+"Deployment","12","test34_IndolentIzzy",NA,NA
+"Seal.Number","21","test34_IndolentIzzy",NA,NA
+"Sex","F","test34_IndolentIzzy",NA,NA
+"Version","V3","test34_IndolentIzzy",NA,NA
+"Age","(1,2]","test34_IndolentIzzy",NA,NA
+"Age.Estimate","~1.2 years old","test34_IndolentIzzy",NA,NA
+"Seal.ID","H938","test34_IndolentIzzy",NA,NA
+"Pressed.Start.Logger","04/26/2021 16:54:00","test34_IndolentIzzy",2021-04-26 16:54:00,2021-04-26 16:54:00
+"Logger.Start","04/26/2021 16:55:00","test34_IndolentIzzy",2021-04-26 16:55:00,2021-04-26 16:55:00
+"Start.from.Real.Time.Clock","04/25/2021 16:55:02","test34_IndolentIzzy",2021-04-25 16:55:02,2021-04-25 16:55:02
+"Start.for.EDF.Files","04/26/2021 16:55:02","test34_IndolentIzzy",2021-04-26 16:55:02,2021-04-26 16:55:02
+"Duration_ON_ANIMAL_h","119.19","test34_IndolentIzzy",NA,NA
+"ON.ANIMAL","04/27/2021 10:48:28","test34_IndolentIzzy",2021-04-27 10:48:28,2021-04-27 10:48:28
+"OFF.ANIMAL","05/02/2021 09:59:41","test34_IndolentIzzy",2021-05-02 09:59:41,2021-05-02 09:59:41
+"Attachment_InitialStick","04/27/2021 09:38:50","test34_IndolentIzzy",2021-04-27 09:38:50,2021-04-27 09:38:50
+"Attachment_LastDose","04/27/2021 10:52:06","test34_IndolentIzzy",2021-04-27 10:52:06,2021-04-27 10:52:06
+"Attachment_Cortisol","1.672","test34_IndolentIzzy",NA,NA
+"Attachment_cv","0.16","test34_IndolentIzzy",NA,NA
+"Removal_InitialStick","05/02/2021 09:35:23","test34_IndolentIzzy",2021-05-02 09:35:23,2021-05-02 09:35:23
+"Removal_LastDose","05/02/2021 10:07:30","test34_IndolentIzzy",2021-05-02 10:07:30,2021-05-02 10:07:30
+"Removal_Cortisol","4.123","test34_IndolentIzzy",NA,NA
+"Removal_cv","1.25","test34_IndolentIzzy",NA,NA
+"Electrodes.unplugged.from.logger_recorded.time","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Electrodes.unplugged.from.logger_Video","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Logger.Stop","05/02/2021 12:52:00","test34_IndolentIzzy",2021-05-02 12:52:00,2021-05-02 12:52:00
+"Actual.Start.Time_CATS.toolbox","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Actual.Start_TYPE","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Logger.Used","L1","test34_IndolentIzzy",NA,NA
+"SD.Card.Used","3","test34_IndolentIzzy",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test34_IndolentIzzy",NA,NA
+"Restarts.Present","0","test34_IndolentIzzy",NA,NA
+"Number.of.Restarts","0","test34_IndolentIzzy",NA,NA
+"X.factor.per.restart","0","test34_IndolentIzzy",NA,NA
+"First.Restart.Seconds.Elapsed","0","test34_IndolentIzzy",NA,NA
+"Last.Restart.Seconds.Elapsed","0","test34_IndolentIzzy",NA,NA
+"First.Restart.Time","04/26/2021 16:55:00.000","test34_IndolentIzzy",2021-04-26 16:55:00,2021-04-26 16:55:00
+"Last.Restart.Time","04/26/2021 16:55:00.000","test34_IndolentIzzy",2021-04-26 16:55:00,2021-04-26 16:55:00
+"Device.Failure","No","test34_IndolentIzzy",NA,NA
+"Mass.with.cage_kg","175","test34_IndolentIzzy",NA,NA
+"Mass.cage_kg","18","test34_IndolentIzzy",NA,NA
+"Mass.animal._kg","157","test34_IndolentIzzy",NA,NA
+"Mass.animal.post.study_kg","0","test34_IndolentIzzy",NA,NA
+"Flipper.Tag.1","GH938","test34_IndolentIzzy",NA,NA
+"Position","R-iu-Si","test34_IndolentIzzy",NA,NA
+"Flipper.Tag.2","GH939","test34_IndolentIzzy",NA,NA
+"Position.1","L-ou-So","test34_IndolentIzzy",NA,NA
+"Mark","H938","test34_IndolentIzzy",NA,NA
+"Mark.Position","L,R","test34_IndolentIzzy",NA,NA
+"Birth.date","0","test34_IndolentIzzy",NA,NA
+"Wean.weight_kg","0","test34_IndolentIzzy",NA,NA
+"Weaner.ID","0","test34_IndolentIzzy",NA,NA
+"Wean.Standard.Length","0","test34_IndolentIzzy",NA,NA
+"Wean.Ax.Girth","0","test34_IndolentIzzy",NA,NA
+"Animal.ID","53848","test34_IndolentIzzy",NA,NA
+"Deployment.Resight.ID","374824","test34_IndolentIzzy",NA,NA
+"Recovery.Resight.ID","375131","test34_IndolentIzzy",NA,NA
+"Deploy.ID","NESE0869ANNU","test34_IndolentIzzy",NA,NA
+"Seal.ID.1","H938","test34_IndolentIzzy",NA,NA
+"TOPP.ID","2021045","test34_IndolentIzzy",NA,NA
+"Deploy.Time","04/26/2021 21:50:00","test34_IndolentIzzy",2021-04-26 21:50:00,2021-04-26 21:50:00
+"Deploy.Latitude","36.95309","test34_IndolentIzzy",NA,NA
+"Deploy.Longitude","-122.064361","test34_IndolentIzzy",NA,NA
+"Initial.sedation.location","BBSU","test34_IndolentIzzy",NA,NA
+"Attachment.Time..GMT.","04/27/2021 16:38:50","test34_IndolentIzzy",2021-04-27 16:38:50,2021-04-27 16:38:50
+"Attachment.Latitude","37.114139","test34_IndolentIzzy",NA,NA
+"Attachment.Longitude","-122.32883","test34_IndolentIzzy",NA,NA
+"Recovery.procedure.location","BBN","test34_IndolentIzzy",NA,NA
+"Recovery.Time..GMT.","05/02/2021 16:35:23","test34_IndolentIzzy",2021-05-02 16:35:23,2021-05-02 16:35:23
+"Recovery.Latitude","37.118014","test34_IndolentIzzy",NA,NA
+"Recovery.Longitude","-122.335574","test34_IndolentIzzy",NA,NA
+"Blood","Yes","test34_IndolentIzzy",NA,NA
+"Serum.banked.for.CORT","Yes","test34_IndolentIzzy",NA,NA
+"Hematocrit","49 / 50 / 49 / 48","test34_IndolentIzzy",NA,NA
+"Standard.Length","170","test34_IndolentIzzy",NA,NA
+"Curved.Length","191","test34_IndolentIzzy",NA,NA
+"Ax.Girth","140","test34_IndolentIzzy",NA,NA
+"Whisker","N","test34_IndolentIzzy",NA,NA
+"Fur","N","test34_IndolentIzzy",NA,NA
+"Blubber","N","test34_IndolentIzzy",NA,NA
+"Ultrasound.skull.depth_cm","2.48","test34_IndolentIzzy",NA,NA
+"Instruments","Somniseal V3, MK10, VHF V2","test34_IndolentIzzy",NA,NA
+"MK10.ID","07A0349","test34_IndolentIzzy",NA,NA
+"Time.Deploy.VHF_magnet.off","04/27/2021 07:15:00","test34_IndolentIzzy",2021-04-27 07:15:00,2021-04-27 07:15:00
+"test.VHF.pings.on","Yes","test34_IndolentIzzy",NA,NA
+"Time.Deploy.MK10_ON.magnet","04/26/2021 14:50:00","test34_IndolentIzzy",2021-04-26 14:50:00,2021-04-26 14:50:00
+"Time.Deploy.MK10.in.GMT","04/26/2021 21:50:00","test34_IndolentIzzy",2021-04-26 21:50:00,2021-04-26 21:50:00
+"OFF.DAYS.in.When.to.Transmit","OFF 4/27, 28, 29, 30, 5/1, ON 5/2","test34_IndolentIzzy",NA,NA
+"Program.stop.transmit.MK10","04/26/2021 17:00:00","test34_IndolentIzzy",2021-04-26 17:00:00,2021-04-26 17:00:00
+"Program.stop.MK10_GMT","04/27/2021 00:00:00","test34_IndolentIzzy",2021-04-27 00:00:00,2021-04-27 00:00:00
+"Program.start.transmit.MK10","05/01/2021 17:00:00","test34_IndolentIzzy",2021-05-01 17:00:00,2021-05-01 17:00:00
+"Program.start.MK10_GMT","05/02/2021 00:00:00","test34_IndolentIzzy",2021-05-02 00:00:00,2021-05-02 00:00:00
+"test.transmit.working","Yes","test34_IndolentIzzy",NA,NA
+"last.test.transmit.time","0","test34_IndolentIzzy",NA,NA
+"last.transmit.time.recovery","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"First.Calibration.Event.Type","Shakes","test34_IndolentIzzy",NA,NA
+"First.Calibration.Event.Start","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"First.Calibration.Event.End","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Expected.Duration","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Actual.Duration","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Event2_type","Shakes","test34_IndolentIzzy",NA,NA
+"Last.Calibration.Event.2.Start","05/02/2021 12:41:00","test34_IndolentIzzy",2021-05-02 12:41:00,2021-05-02 12:41:00
+"Last.Calibration.Event.2.End","05/02/2021 12:41:10","test34_IndolentIzzy",2021-05-02 12:41:10,2021-05-02 12:41:10
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:10","test34_IndolentIzzy",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Type.in.OFFSET","05/02/2021 12:41:00","test34_IndolentIzzy",2021-05-02 12:41:00,2021-05-02 12:41:00
+"Event3_type","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Time.of.water.entry","01/00/1900 00:00:00","test34_IndolentIzzy",NA,NA
+"Recording.Duration_s","0","test34_IndolentIzzy",NA,NA
+"Recording.Duration_days","0","test34_IndolentIzzy",NA,NA
+"Recording.Duration_based.on.start.stop","5.83125","test34_IndolentIzzy",NA,NA
+"Extra.Sedation","No","test34_IndolentIzzy",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","4.997604167","test34_IndolentIzzy",NA,NA
+"Pickup.Crew","0","test34_IndolentIzzy",NA,NA
+"Attachment.Crew","R.Holser, J.Kendall-Bar, A.Favilla, R.Beltran, L.Keehan","test34_IndolentIzzy",NA,NA
+"Release.Crew","J.Kendall-Bar, P.Robinson, R.Beltran","test34_IndolentIzzy",NA,NA
+"Animal.Comment","0","test34_IndolentIzzy",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/28/2021 13:16:20","test34_IndolentIzzy",2021-04-28 13:16:20,2021-04-28 13:16:20
+"End.Calm.in.Water.for.ICA","04/28/2021 13:36:00","test34_IndolentIzzy",2021-04-28 13:36:00,2021-04-28 13:36:00
+"Duration.for.ICA","00:19:40","test34_IndolentIzzy",NA,NA
+"Best.EOG.EMG.EEG","3,5,6,9","test34_IndolentIzzy",NA,NA
+"ICA.Decomposition.Quality","OK","test34_IndolentIzzy",NA,NA
+"ICA.Component.Maximal.Brain","4","test34_IndolentIzzy",NA,NA
+"ICA.Component.Maximal.Heart","6","test34_IndolentIzzy",NA,NA
+"Pruned.with.ICA.Components","1,2,3,6","test34_IndolentIzzy",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test34_IndolentIzzy",NA,NA
+"Attachment.Orientation","on its side","test34_IndolentIzzy",NA,NA
+"Time.for.orientation","04/26/2021 11:17:32","test34_IndolentIzzy",2021-04-26 11:17:32,2021-04-26 11:17:32
+"AccX.during.attachment","-0.02192","test34_IndolentIzzy",NA,NA
+"AccY.during.attachment","-0.97304","test34_IndolentIzzy",NA,NA
+"AccZ.during.attachment","-0.2173","test34_IndolentIzzy",NA,NA
+"Recording.ID","XLOC_2-yr-juvenile","test35_JauntingJuliette",NA,NA
+"Test.Number","35","test35_JauntingJuliette",NA,NA
+"Deployment","13","test35_JauntingJuliette",NA,NA
+"Seal.Number","24","test35_JauntingJuliette",NA,NA
+"Sex","F","test35_JauntingJuliette",NA,NA
+"Version","V4","test35_JauntingJuliette",NA,NA
+"Age","(2,3]","test35_JauntingJuliette",NA,NA
+"Age.Estimate","~2.2 years old","test35_JauntingJuliette",NA,NA
+"Seal.ID","K666","test35_JauntingJuliette",NA,NA
+"Pressed.Start.Logger","04/01/2022 21:22:58","test35_JauntingJuliette",2022-04-01 21:22:58,2022-04-01 21:22:58
+"Logger.Start","04/01/2022 21:23:58","test35_JauntingJuliette",2022-04-01 21:23:58,2022-04-01 21:23:58
+"Start.from.Real.Time.Clock","03/31/2022 21:24:00","test35_JauntingJuliette",2022-03-31 21:24:00,2022-03-31 21:24:00
+"Start.for.EDF.Files","04/01/2022 21:24:00","test35_JauntingJuliette",2022-04-01 21:24:00,2022-04-01 21:24:00
+"Duration_ON_ANIMAL_h","86.41777778","test35_JauntingJuliette",NA,NA
+"ON.ANIMAL","04/02/2022 18:38:29","test35_JauntingJuliette",2022-04-02 18:38:29,2022-04-02 18:38:29
+"OFF.ANIMAL","04/06/2022 09:03:33","test35_JauntingJuliette",2022-04-06 09:03:33,2022-04-06 09:03:33
+"Attachment_InitialStick","04/02/2022 17:34:30","test35_JauntingJuliette",2022-04-02 17:34:30,2022-04-02 17:34:30
+"Removal_InitialStick","04/06/2022 08:36:22","test35_JauntingJuliette",2022-04-06 08:36:22,2022-04-06 08:36:22
+"Logger.Used","L1","test35_JauntingJuliette",NA,NA
+"SD.Card.Used","4","test35_JauntingJuliette",NA,NA
+"Configuration.Notes","connector config.py Oversampling ""upside down"" protocol used","test35_JauntingJuliette",NA,NA
+"Restarts.Present","Yes","test35_JauntingJuliette",NA,NA
+"Number.of.Restarts","1","test35_JauntingJuliette",NA,NA
+"X.factor.per.restart","0","test35_JauntingJuliette",NA,NA
+"First.Restart.Seconds.Elapsed","0","test35_JauntingJuliette",NA,NA
+"Last.Restart.Seconds.Elapsed","0","test35_JauntingJuliette",NA,NA
+"First.Restart.Time","01/00/1900 00:00:00.000","test35_JauntingJuliette",NA,NA
+"Last.Restart.Time","01/00/1900 00:00:00.000","test35_JauntingJuliette",NA,NA
+"Device.Failure","No","test35_JauntingJuliette",NA,NA
+"Mass.with.cage_kg","293","test35_JauntingJuliette",NA,NA
+"Mass.cage_kg","82","test35_JauntingJuliette",NA,NA
+"Mass.animal._kg","211","test35_JauntingJuliette",NA,NA
+"Mass.animal.post.study_kg","0","test35_JauntingJuliette",NA,NA
+"Flipper.Tag.1","GK677","test35_JauntingJuliette",NA,NA
+"Position","L-iu-Si","test35_JauntingJuliette",NA,NA
+"Flipper.Tag.2","GK666","test35_JauntingJuliette",NA,NA
+"Position.1","R-ou-So","test35_JauntingJuliette",NA,NA
+"Mark","0","test35_JauntingJuliette",NA,NA
+"Mark.Position","0","test35_JauntingJuliette",NA,NA
+"Birth.date","0","test35_JauntingJuliette",NA,NA
+"Wean.date","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Tagged.date","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Wean.weight_kg","0","test35_JauntingJuliette",NA,NA
+"Weaner.ID","0","test35_JauntingJuliette",NA,NA
+"Wean.Standard.Length","0","test35_JauntingJuliette",NA,NA
+"Wean.Ax.Girth","0","test35_JauntingJuliette",NA,NA
+"Animal.ID","55573","test35_JauntingJuliette",NA,NA
+"Deployment.Resight.ID","398056","test35_JauntingJuliette",NA,NA
+"Recovery.Resight.ID","0","test35_JauntingJuliette",NA,NA
+"Deploy.ID","NESE0870ANNU","test35_JauntingJuliette",NA,NA
+"Seal.ID.1","K666","test35_JauntingJuliette",NA,NA
+"TOPP.ID","2022033","test35_JauntingJuliette",NA,NA
+"Deploy.Time","44652.70833","test35_JauntingJuliette",NA,NA
+"Deploy.Latitude","36.95309","test35_JauntingJuliette",NA,NA
+"Deploy.Longitude","-122.064361","test35_JauntingJuliette",NA,NA
+"Initial.sedation.location","MBBU","test35_JauntingJuliette",NA,NA
+"Attachment.Time..GMT.","44654.02396","test35_JauntingJuliette",NA,NA
+"Attachment.Latitude","37.116792","test35_JauntingJuliette",NA,NA
+"Attachment.Longitude","-122.330776","test35_JauntingJuliette",NA,NA
+"Recovery.procedure.location","BBN","test35_JauntingJuliette",NA,NA
+"Recovery.Time..GMT.","44657.65025","test35_JauntingJuliette",NA,NA
+"Recovery.Latitude","37.117973","test35_JauntingJuliette",NA,NA
+"Recovery.Longitude","-122.335667","test35_JauntingJuliette",NA,NA
+"Blood","Yes - 2 red, 2 purple","test35_JauntingJuliette",NA,NA
+"Serum.banked.for.CORT","Yes","test35_JauntingJuliette",NA,NA
+"Hematocrit","52 / 54 / 52 / 52","test35_JauntingJuliette",NA,NA
+"Standard.Length","199","test35_JauntingJuliette",NA,NA
+"Curved.Length","210","test35_JauntingJuliette",NA,NA
+"Ax.Girth","160","test35_JauntingJuliette",NA,NA
+"Whisker","N","test35_JauntingJuliette",NA,NA
+"Fur","N","test35_JauntingJuliette",NA,NA
+"Blubber","N","test35_JauntingJuliette",NA,NA
+"Ultrasound.skull.depth_cm","2.002","test35_JauntingJuliette",NA,NA
+"Instruments","Somniseal V4, MK10, VHF 1 - 149.372","test35_JauntingJuliette",NA,NA
+"MK10.ID","04/01/2022 17:00:00","test35_JauntingJuliette",2022-04-01 17:00:00,2022-04-01 17:00:00
+"Time.Deploy.VHF_magnet.off","Yes","test35_JauntingJuliette",NA,NA
+"test.VHF.pings.on","04/01/2022 17:00:00","test35_JauntingJuliette",2022-04-01 17:00:00,2022-04-01 17:00:00
+"Time.Deploy.MK10_ON.magnet","04/02/2022 00:00:00","test35_JauntingJuliette",2022-04-02 00:00:00,2022-04-02 00:00:00
+"Time.Deploy.MK10.in.GMT","ON ALL","test35_JauntingJuliette",NA,NA
+"Program.start.MK10_GMT","Yes","test35_JauntingJuliette",NA,NA
+"last.test.transmit.time","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"last.transmit.time.recovery","Shakes","test35_JauntingJuliette",NA,NA
+"First.Calibration.Event.Type","04/01/2022 21:41:00","test35_JauntingJuliette",2022-04-01 21:41:00,2022-04-01 21:41:00
+"First.Calibration.Event.Start","04/01/2022 21:41:10","test35_JauntingJuliette",2022-04-01 21:41:10,2022-04-01 21:41:10
+"First.Calibration.Event.End","01/00/1900 00:00:10","test35_JauntingJuliette",NA,NA
+"Expected.Duration","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Logger.Event.Time.Start_TYPE","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Logger.Event.Time.End_TYPE","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Actual.Duration","Shakes","test35_JauntingJuliette",NA,NA
+"Event2_type","04/06/2022 11:56:00","test35_JauntingJuliette",2022-04-06 11:56:00,2022-04-06 11:56:00
+"Last.Calibration.Event.2.Start","04/06/2022 11:56:10","test35_JauntingJuliette",2022-04-06 11:56:10,2022-04-06 11:56:10
+"Last.Calibration.Event.2.End","01/00/1900 00:00:10","test35_JauntingJuliette",NA,NA
+"Logger.Event.Time.Start_TYPE.1","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Logger.Event.Time.End_TYPE.1","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Actual.Duration.1","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Offset.NOT.accounted.for.by.Insert.Restart.Delays","01/04/1900 14:15:00","test35_JauntingJuliette",1900-01-04 14:15:00,1900-01-04 14:15:00
+"Type.in.OFFSET","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Event3_type","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Additional.Sync.Event.Start","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Additional.Sync.Event.End","01/00/1900 00:00:00","test35_JauntingJuliette",NA,NA
+"Time.of.water.entry","0","test35_JauntingJuliette",NA,NA
+"Recording.Duration_s","0","test35_JauntingJuliette",NA,NA
+"Recording.Duration_days","4.641921296","test35_JauntingJuliette",NA,NA
+"Recording.Duration_based.on.start.stop","No","test35_JauntingJuliette",NA,NA
+"Reason","3.626296296","test35_JauntingJuliette",NA,NA
+"Experiment.Duration_days.from.attachment.to.removal","R. Holser, L. Keehan, J. Kendall-Bar, A. Favilla, R. Jones, P.Robinson","test35_JauntingJuliette",NA,NA
+"Pickup.Crew","0","test35_JauntingJuliette",NA,NA
+"Attachment.Crew","R. Holser, J. Kendall-Bar, C. Brown, J. Tremblay, A. Patrician","test35_JauntingJuliette",NA,NA
+"Release.Crew","Resight comment for recovery: Seal was instrumented and translocated on April 2 as part of sleep study by J.Kendall-Bar TOPPID 2022033. Instrument was recovered today, animal looks healthy and in good body condition. Made sure to check on headcap region and eyes regarding previous concerns and all seems normal.","test35_JauntingJuliette",NA,NA
+"Begin.Calm.in.Water.for.ICA","04/03/2022 21:24:13","test35_JauntingJuliette",2022-04-03 21:24:13,2022-04-03 21:24:13
+"End.Calm.in.Water.for.ICA","04/03/2022 21:36:07","test35_JauntingJuliette",2022-04-03 21:36:07,2022-04-03 21:36:07
+"Duration.for.ICA","00:11:54","test35_JauntingJuliette",NA,NA
+"Best.EOG.EMG.EEG","2,4,7,8","test35_JauntingJuliette",NA,NA
+"ICA.Decomposition.Quality","Good","test35_JauntingJuliette",NA,NA
+"ICA.Component.Maximal.Brain","8","test35_JauntingJuliette",NA,NA
+"ICA.Component.Maximal.Heart","1","test35_JauntingJuliette",NA,NA
+"Pruned.with.ICA.Components","1,2,3,5","test35_JauntingJuliette",NA,NA
+"Channel.Configuration","[19 16 15 18 17 20 21 25 29]","test35_JauntingJuliette",NA,NA
+"Attachment.Orientation","on its side","test35_JauntingJuliette",NA,NA
