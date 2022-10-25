@@ -13,6 +13,7 @@ library(ggnewscale)
 library(cowplot)
 library(ggeasy)
 library(conflicted)
+library(devtools)
 
 conflict_prefer("here","here")
 conflict_prefer("filter","dplyr")
@@ -69,18 +70,17 @@ print(SealIDs) #All animal nicknames
 # Data scored by
 scorer = "JKB" # replace with scorer initials
 # Read CSV made from copy/pasted Windows>Comments in LabChart;
-events <- read.csv(here(paste("analysis/data/raw_data/06_Sleep_Scoring_Comments_",scorer,".csv", sep="")))
+raw_events <- read.csv(here(paste("analysis/data/raw_data/06_Sleep_Scoring_Comments_",scorer,".csv", sep="")))
 
 # 3 Load scored location data ----
 raw_metadata <- read.csv(here("analysis/data/raw_data/00_Raw_Scoring_Metadata.csv"))
 raw_metadata$R.Time <- mdy_hms(raw_metadata$Corrected.Date.Time)
 
-# 3 Process scored sleep data ----
+# 3 Process scored data ----
 
 for (i in 1:length(SealIDs)){
 
   # * A Filter seal-specific metadata ----
-
   SealID <- SealIDs[i]                        # cycle through all seals
   info <- filter(metadata, TestID==SealID)    # filter metadata seal of choice
   description <- unique(info$description)     # save description for column titles
@@ -113,7 +113,7 @@ for (i in 1:length(SealIDs)){
   }
 
   # * B Filter seal-specific scoring data ----
-  events <- events %>%
+  events <- raw_events %>%
     filter(Seal_ID==SealID)
 
   if (nrow(events)==0){
@@ -130,6 +130,7 @@ for (i in 1:length(SealIDs)){
   # Check out the data
   unique(factor(events$Comment))
 
+  # * C Process Location Data ----
   # Separate times related to animal location (land, shallow water, continental shelf, open ocean)
   WaterData <- raw_metadata %>%
     filter(Seal_ID==SealID) %>%
@@ -183,7 +184,215 @@ for (i in 1:length(SealIDs)){
     }
   }
 
+  # FUNCTION THAT DOES THE SAME THING AS ABOVE
+  WaterData$WaterCode <- make_waterlabels(WaterData$Comment)
+
+  # * D Process Respiration Data ----
+
+  # Get respiratory comments only
+  resp_events <- events %>%
+    filter(Comment=="APNEA"|
+             Comment=="First Breath"|
+             Comment=="Last Breath"|
+             Comment=="Anticipatory HR Increase"|
+             Comment=="Heart Patterns Unscorable"|
+             Comment=="Heart Patterns Scorable") %>%
+    select('Seconds','Comment','R.Time')
+
+  # Calculate duration of each state using either off-animal time or device failure time.
+  for (j in 1:nrow(resp_events)){
+    if (j<nrow(resp_events)){
+      resp_events$duration[j] <- as.double(as.duration(interval(resp_events$R.Time[j],resp_events$R.Time[j+1])))
+    }else if (j==nrow(resp_events)){
+      if (str_detect(info$Device.Failure,"Yes") == "TRUE"){
+        print("The device was blinking and not recording upon retrieval.")
+        resp_events$duration[j] <- as.double(as.duration(interval(resp_events$R.Time[j],FAILED.END.RECORDING)))
+      } else{
+        resp_events$duration[j] <- as.double(as.duration(interval(resp_events$R.Time[j],OFF.ANIMAL)))
+        print("The device did not fail.")
+      }
+    }else {
+      print("Error")
+    }
+  }
+
+  # Replace comments with desired code name & value
+  for (j in 1:nrow(resp_events)){
+    if (resp_events$Comment[j] == "APNEA"){
+      resp_events$Code[j] <- "Apnea"
+      resp_events$Num[j] <- -2
+    }else if (resp_events$Comment[j] == "Anticipatory HR Increase"){
+      resp_events$Code[j] <- "transition to Eupnea"
+      resp_events$Num[j] <- 1
+    }else if (resp_events$Comment[j] == "First Breath"){
+      resp_events$Code[j] <- "Eupnea"
+      resp_events$Num[j] <- 2
+    }else if (resp_events$Comment[j] == "Last Breath"){
+      resp_events$Code[j] <- "transition to Apnea"
+      resp_events$Num[j] <- -1
+    }else if (resp_events$Comment[j] == "Heart Patterns Scorable"){
+      resp_events$Code[j] <- "Eupnea"
+      resp_events$Num[j] <- 2
+    }else if (resp_events$Comment[j] == "Heart Patterns Unscorable"){
+      resp_events$Code[j] <- "Unscorable"
+      resp_events$Num[j] <- 0
+    }else{
+      print("undefined event present")
+      print(resp_events$Comment[j])
+    }
+  }
+
+  # Initializing variables to store device restart information
+  Restart_Start <- numeric()
+  Restart_End <- numeric()
+
+  # Check sequence for any deviation from Apnea > Breath > First Breath > Last Breath > Apnea etc.
+  for (j in 2:nrow(resp_events)){
+    if (resp_events$Code[j] == "Apnea"){
+      if (resp_events$Code[j-1] != "Last Breath"){
+        paste("Missing 'Breath' end bradycardia comment, check timestamp",resp_events$R.Time[j])
+      }
+    }else if (resp_events$Code[j] == "transition to Eupnea"){
+      if (resp_events$Code[j-1] != "Apnea"){
+        paste("Missing 'Apnea' start bradycardia comment, check timestamp",resp_events$R.Time[j])
+      }
+    }else if (resp_events$Code[j] == "Eupnea"){
+      if (resp_events$Code[j-1] != "transition to Eupnea"){
+        paste("Missing 'Breath' end bradycardia comment, check timestamp",resp_events$R.Time[j])
+      }
+    }else if (resp_events$Code[j] == "transition to Apnea"){
+      if (resp_events$Code[j-1] != "Eupnea"){
+        paste("Missing 'Last Breath' end breathing comment, check timestamp",resp_events$R.Time[j])
+      }
+    }else if (resp_events$Code[j] == "Unscorable"){
+      print("Restart from")
+      print(resp_events$R.Time[j])
+      print("to")
+      print(resp_events$R.Time[j+1])
+      Restart_Start[j] <- resp_events$R.Time[j]
+      Restart_End[j+1] <- resp_events$R.Time[j+1]
+    }else{
+      print("undefined event present")
+    }
+  }
+  Restart_Start <- Restart_Start[!is.na(Restart_Start)]
+  Restart_End <- Restart_End[!is.na(Restart_End)]
+
+  Restarts <- data.frame(Restart_Start,Restart_End)
+  colnames(Restarts) <- c('Restart_Start','Restart_End')
+
+  # * E Process Sleep Data ----
+
+  sleep_events <- events %>%
+    filter(Comment == 'Instrument ON Animal'|
+             Comment == 'Instrument OFF Animal'|
+             Comment == 'MVMT (from calm)'|
+             Comment == 'JOLT (from sleep)'|
+             Comment == 'CALM (from motion)'|
+             Comment == 'WAKE (from sleep)'|
+             Comment == 'SWS1'|
+             Comment == 'SWS2'|
+             Comment == 'LS (light sleep)'|
+             Comment == 'REM1'|
+             Comment == 'REM2'|
+             Comment == 'Sleep State Unscorable') %>%
+    select('Seconds','Comment','R.Time')
+
+  # Calculate duration of each state using either off-animal time or device failure time.
+  for (j in 1:nrow(sleep_events)){
+    if (j<nrow(sleep_events)){
+      sleep_events$duration[j] <- as.double(as.duration(interval(sleep_events$R.Time[j],sleep_events$R.Time[j+1])))
+    }else if (j==nrow(sleep_events)){
+      if (str_detect(info$Device.Failure,"Yes") == "TRUE"){
+        print("The device was blinking and not recording upon retrieval.")
+        sleep_events$duration[j] <- as.double(as.duration(interval(sleep_events$R.Time[j],FAILED.END.RECORDING)))
+        last_record = FAILED.END.RECORDING
+      } else{
+        sleep_events$duration[j] <- as.double(as.duration(interval(sleep_events$R.Time[j],OFF.ANIMAL)))
+        print("The device did not fail.")
+        last_record = OFF.ANIMAL
+      }
+    }else {
+      print("Error")
+    }
+  }
+
+  unique(sleep_events$Comment)
+
+  # Replace comments with desired code name & value
+  for (j in 1:nrow(sleep_events)){
+    if (sleep_events$Comment[j] == "MVMT (from calm)" ||
+        sleep_events$Comment[j] == "JOLT (from sleep)"){
+      sleep_events$Code[j] <- "Active Waking"
+      sleep_events$Num[j] <- 1
+    }else if (sleep_events$Comment[j] == "CALM (from motion)" ||
+              sleep_events$Comment[j] == "WAKE (from sleep)" ||
+              sleep_events$Comment[j] == "Instrument ON Animal"){
+      sleep_events$Code[j] <- "Quiet Waking"
+      sleep_events$Num[j] <- 2
+    }else if (sleep_events$Comment[j] == "SWS1"){
+      sleep_events$Code[j] <- "LV Slow Wave Sleep"
+      sleep_events$Num[j] <- 4
+    }else if (sleep_events$Comment[j] == "SWS2"){
+      sleep_events$Code[j] <- "HV Slow Wave Sleep"
+      sleep_events$Num[j] <- 5
+    }else if (sleep_events$Comment[j] == "LS (light sleep)"){
+      sleep_events$Code[j] <- "Drowsiness"
+      sleep_events$Num[j] <- 3
+    }else if (sleep_events$Comment[j] == "REM2"){
+      sleep_events$Code[j] <- "Certain REM Sleep"
+      sleep_events$Num[j] <- 7
+    }else if (sleep_events$Comment[j] == "REM1"){
+      sleep_events$Code[j] <- "Putative REM Sleep"
+      sleep_events$Num[j] <- 6
+    }else if (sleep_events$Comment[j] == "Sleep State Unscorable"){
+      sleep_events$Code[j] <- "Unscorable"
+      sleep_events$Num[j] <- 0
+    }else{
+      print("undefined event present")
+      print(sleep_events$Comment[j])
+    }
+  }
+
+  sleep_events$SealID <- SealID
+  sleep_events$Recording.ID = info$Recording.ID
+  sleep_events$ID = sub("_[^_]+$", "", info$Recording.ID)
+  resp_events$SealID <- SealID
+  resp_events$Recording.ID = info$Recording.ID
+  resp_events$ID = sub("_[^_]+$", "", info$Recording.ID)
+  WaterData$SealID <- SealID
+  WaterData$Recording.ID = info$Recording.ID
+  WaterData$ID = sub("_[^_]+$", "", info$Recording.ID)
+
+  if (i==1){
+    # ONLY RUN FOR FIRST ANIMAL
+    summary_sleep_events <- sleep_events
+    summary_resp_events <- resp_events
+    summary_WaterData <- WaterData
+  }
+  if (i>1){
+    #RUN FOR SUBSEQUENT ANIMALS
+    summary_sleep_events <- rbind(summary_sleep_events, sleep_events)
+    summary_resp_events <- rbind(summary_resp_events, resp_events)
+    summary_WaterData <- rbind(summary_WaterData, WaterData)
+  }
+
+  print("Scored events processed.")
+  # write.csv(sleep_events,here(paste("analysis/data/derived_data/",SealID,"_06_Sleep-Events_",scorer,".csv",sep="")), row.names = FALSE)
+  # write.csv(resp_events,here(paste("analysis/data/derived_data/",SealID,"_06_Resp-Events_",scorer,".csv",sep="")), row.names = FALSE)
+  # write.csv(WaterData,here(paste("analysis/data/derived_data/",SealID,"_06_Water-Data_",scorer,".csv",sep="")), row.names = FALSE)
 }
 
-
+saveRDS(summary_sleep_events,
+        file = here(paste("analysis/data/derived_data/06_Summary_Water-Data.rds",sep="")),
+        ascii = FALSE, version = NULL,compress = TRUE)
+saveRDS(summary_resp_events,
+        file = here(paste("analysis/data/derived_data/06_Summary_Resp-Events.rds",sep="")),
+        ascii = FALSE, version = NULL,compress = TRUE)
+saveRDS(summary_sleep_events,
+        file = here(paste("analysis/data/derived_data/06_Summary_Sleep-Events.rds",sep="")),
+        ascii = FALSE, version = NULL,compress = TRUE)
+saveRDS(metadata,
+        file = here(paste("analysis/data/derived_data/06_Metadata.rds",sep="")),
+        ascii = FALSE, version = NULL,compress = TRUE)
 
