@@ -81,6 +81,14 @@ print(SealIDs) #All animal nicknames
   hypnogram_30s$Date = floor_date(hypnogram_30s$R.Time, unit = "day")
   hypnogram_30s$Day = floor_date(hypnogram_30s$R.Time, unit = "day")-floor_date(hypnogram_30s$R.Time[1], unit = "day")
 
+  saveRDS(hypnogram,
+          file = here(paste("analysis/data/derived_data/07_Hypnogram_1Hz.rds",sep="")),
+          ascii = FALSE, version = NULL,compress = TRUE)
+
+  saveRDS(hypnogram_30s,
+          file = here(paste("analysis/data/derived_data/07_Hypnogram_30s.rds",sep="")),
+          ascii = FALSE, version = NULL,compress = TRUE)
+
   # CALCULATE SUMMARY SLEEP STATISTICS ----
   stats <- hypnogram %>%
     group_by(Date) %>%
